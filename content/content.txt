@@ -1,0 +1,772 @@
+The undergraduate degree programs are a BS in computer science, a BA in computer science, and a minor in computer science. They are designed to be flexible enough to satisfy the needs of all students interested in computer science. Their goals are twofold:
+
+To give students a solid and rigorous background in computer science principles, including the requisite mathematical foundations,
+
+To expose students to the problems and solution techniques used in the various areas of the discipline.
+
+If you are a prospective undergraduate student, please see our Resources page for information on how to meet with an advisor in the Computer Science department.
+
+Our small, collegial PhD and MS programs ensure students get personal attention from faculty.
+
+AI, experimental systems, human-computer interaction, theoretical computer science, and more.
+
+The latest CS Rankings reports show that in the area of computer vision, the Universi ...
+
+On January 1, 2020, Professor Luo begins his three-year term as the editor-in-chief of the IEEE Tran ...
+
+As part of a top-tier research university, we partner with many schools, departments, and centers across campus.Learn more >
+
+Our undergraduate program has grown significantly since our first 10 bachelor degrees were conferred in 1996. Fast forward to 2019 when we graduated 134 students. Follow our journey through the years.
+
+Some of our alumni have been working hard to make their start-up dreams come true. Read about their stories of entrepreneurship.
+
+Our computer science graduate students are involved in a wide variety of research and activities. Learn about their experiences at the University of Rochester on our graduate student profiles page.
+
+Our computer science alumni are a diverse and accomplished group of people who have gone on to pursue their own unique paths in life. Learn about their journeys on our alumni profiles page.
+
+URCS was founded as a PhD-only department in 1974. The first degrees were awarded in 1980. The department typically admits 10–12 PhD students each fall, and graduates about 7 every year.
+
+A $1.5 million grant from the National Science Foundation will establish a structured, well-rounded training program for University scholars applying augmented and virtual reality in health, education, design, and other fields.
+
+Computer Science Professor Henry Kautz received the 2018 ACM AAAI Allen Newell Award for his fundamental contributions to theory and practice in knowledge representation and reasoning, planning and plan recognition, and computational social science. Professor Kautz's work, like that of the prize's namesake Allen Newell, has spanned multiple disciplines and areas—demonstrating the power and versatility of computer science.
+
+The ACM - AAAI Allen Newell Award is presented to an individual selected for career contributions that have breadth within computer science, or that bridge computer science and other disciplines.
+
+Bobby Gerami has taken advantage of many opportunities at Rochester, getting involved with the After Hours a cappella group; club basketball; and the Students’ Association, where he served as treasurer. Gerami will graduate with degrees in computer science and economics and head to Seattle for a job as a software engineering analyst.
+
+Louis Jenkins, a first-year doctoral student from Drexel Hill, Pennsylvania, is the University’s first computer science student to receive the Department of Energy's Computational Science Graduate Fellowship.
+
+Three of the 56 newly elected fellows of the Association for Computer Machinery (ACM) are faculty members of the Hajim School of Engineering and Applied Sciences at the University of Rochester. Two hold primary appointments in the Computer Science Department (Professor and Chair Sandhya Dwarkadas and Professor Jiebo Luo), and one holds a secondary appointment in Computer Science (Professor and Dean of the Hajim School Wendi Heinzelman).
+
+The University of Rochester has been selected as a Morris K. Udall Center of Excellence in Parkinson’s Disease Research by the National Institute of Neurological Disorders and Stroke (NINDS). The new $9.2 million award brings together researchers from industry and multiple academic institutions to focus on the development of digital tools to enhance understanding of the disease, engage broad populations in research, and accelerate the development of new treatments for Parkinson’s disease.
+
+For many decades, the diversity in computer science nationally has been disproportionally lower than in other science disciplines.  The effort to increase our diversity in Computer Science has been energized by our participation in BRAID . We have graduated ~34% female for the last two graduating classes, nearly double the national average graduation rates. Our ability to send a greater number of our students to the Grace Hopper Conference for Women in Technology as well as additional diversity conferences each year has been directly related to our part in the BRAID initiative. Computer Science students continue to build a community that encourages women and underrepresented minorities to pursue studies in Computer Science.   Here are some additional resources for diversity information at Rochester:
+
+Computer science is a broad and in-demand field, influencing areas like health, entertainment, and big data.
+
+At the University of Rochester, our emphasis on cross-collaboration and elite undergraduate and graduate programs prepares our students for industry, research, and academic positions.
+
+Want more information about the Department of Computer Science? Contact us.
+
+Fall &gt;Spring &gt;Summer &gt; <a href="http://www.cs.rochester.edu/csc_courses" title="csc course descriptions">All Courses &gt;</a></strong></p>
+
+Check the course schedules/descriptions available via the Registrar's Office for the official schedules for the widest range of terms for which such information is available.
+
+The undergraduate degree programs are a BS in computer science, a BA in computer science, and a minor in computer science. They are designed to be flexible enough to satisfy the needs of all students interested in computer science. Their goals are twofold:
+
+To give students a solid and rigorous background in computer science principles, including the requisite mathematical foundations,
+
+To expose students to the problems and solution techniques used in the various areas of the discipline.
+
+If you are a prospective undergraduate student, please see our Resources page for information on how to meet with an advisor in the Computer Science department.
+
+Each student is expected to meet with their faculty advisor at least once a semester. All students, including declared majors, must have a faculty advisor approve their schedule prior to registration every term.
+
+Note: Prior to meeting with your advisor or the undergraduate coordinator, please make sure you have read all the necessary requirements and are prepared for your meeting. With the large numbers of students to advise in computer science, it’s important to be well prepared!
+
+If you are a pre-major who has not yet officially declared a major, please use the Hajim Pre-Major Change Form to switch into/out of Computer Science.
+
+If you have already officially declared a major: you should work with your faculty advisor and undergraduate coordinator.
+
+If you need to update your major declaration, please meet with the undergraduate coordinator to be sure the changes are appropriate and that they are noted in your advising record. If you will need to take additional semester on campus to satisfy degree requirements, be sure to meet with a financial aid counselor to see how this affects your aid package.
+
+For double majors, no more thanthree courses can be used to fulfill requirements for both majors. When double majoring, upper level writing courses will need to be counted as overlaps if used for both majors.
+
+If you are double majoring with math, there could be overlaps in addition to the standard three, so please check with your advisor or with the math department.
+
+Please note that due to the overlap policy, double majoring in computer science and data science is not feasible.
+
+No more than two courses can overlap between a major and a minor, and only one course from a cluster can be used for your major.
+
+See the section below on Course Approvals for instructions on how to receive transfer credit approval.
+
+Transfer credit from domestic colleges and study abroad programs are permitted for the computer science major with the appropriate approvals. Incoming transfer students should seek course approvals as soon as they arrive on campus. All other students must obtain approval for transfer credits PRIOR to taking the course, including courses in education abroad programs. Transfer courses are approved either as equivalent to a UR CSC course, in which case they can be used to fulfill a pre-major or core requirement for a degree in CSC, or as major/minor electives, or as general electives that carry credit but do not count towards a major or minor in CSC.
+
+A transfer course approval form and the syllabus for each course you plan to take is necessary to complete this process. Course approval forms can be obtained from the College Center for Advising Services (CCAS) in Lattimore 312.
+
+No more than two transfer courses may be used to fulfill your computer science core or elective track. Ancillary courses such as math or statistics should be approved by the appropriate departments.
+
+Students who transfer to the University of Rochester from another institution may use transfer credits for a maximum of five courses for the BA degree in computer science.
+
+You MUST provide a syllabus for each course that you wish to transfer. A course description is not a syllabus. A syllabus details exactly which topics are covered and in what detail, what the homework and project requirements are, and how the course is graded. An exception to this rule MAY be granted for courses whose title and material match one of our courses.
+
+You MUST indicate whether you believe the course to be equivalent to a UR CSC course or not. In general, this means that they cover the same material in at least as much depth as our course. You should be able to find syllabi for our courses on Blackboard, the CSC website, or contact the professor directly.
+
+If we do not already know the answer for your course, or if it needs to be re-approved, we will forward your request to the instructor (for equivalent courses) or to an appropriate instructor (for electives). We will notify you via email of our decision.
+
+THIS WILL NOT HAPPEN INSTANTLY. Do not leave this until the last minute.
+
+Your Course Approval Form can then be signed by an authorized approver in the department by showing them your email approval. You can obtain a Course Approval Form from CCAS in Lattimore 312. Once your form is signed, you should return it to CCAS.
+
+The computer science department will accept a 4 or a 5 on the AP Computer Science A Exam as credit for CSC 171: Intro to Computer Science. Students who come in with this credit should take CSC 172: Data Structures and Algorithms. We do not offer any college credit for AP Computer Science Principles.
+
+The computer science department will also accept a grade of A on the A-Level Computer Science exam as credit for CSC171: Intro to Computer Science. 
+
+The mathematics department will accept a 4 or a 5 on AP Calculus AB as credit for MTH 161: Calculus I, and similarly a 4 or a 5 on AP Calculus BC as credit for MTH 162: Calculus II. Our department will also accept that credit. We do not accept credit for AP Statistics or AP Physics.
+
+Peer advisors are upperclass computer science majors who have been chosen for their breadth of experience and computer science knowledge. They are excellent resources for questions about study abroad, getting involved in research, course content, clubs, internships, double majors, etc.
+
+To enroll in an independent study, senior project, or independent research (CSC391, CSC393, or CSC395), please follow these steps:
+
+Approach a full-time CSC faculty member who you would like to work with, and ask them if they would be able to/interested in supervising your independent work.
+
+Fill out this form alongside the faculty member who will be supervising your independent work. You will need to discuss credit hours, course title, course description, and how you will be evaluated.
+
+Schedule a meeting with your CSC staff advisor once you have filled out the independent study form with your faculty supervisor. Click here to schedule an appointment with a staff advisor.
+
+Bring your signed independent study form to this meeting where you will officially register for the independent study.
+
+You cannot register for an independent study via the online registration system. You must follow the steps above in order to properly register for a CSC indepenent study.
+
+You must register for a 4.0 credit independent study by the 3rd Wednesday of each semester. For example: the deadline to register for a 4.0 credit independent study in Fall 2019 will be Wednesday, September 18th, 2019.
+
+If you are pursuing an Honors degree in CSC, you must follow the procedure above to register for CSC395H and CSC395W during your senior year. For more information on Honors, please click here.
+
+The Department of Computer Science offers undergraduate programs leading to BA and BS degrees, as well as to a minor in Computer Science. The BS program is appropriate for students who aspire to achieve a high-level research and development position in the computer industry, those who plan to go on to earn an MS or PhD in Computer Science, or those who simply wish to have the broadest and deepest knowledge of the field. The BA curriculum is more flexible and can be customized to support students interested in the intersection of Computer Science with other disciplines, such as computational linguistics, studio arts, computational biology, digital media, etc. Double major degrees are possible with either the BS or the BA in Computer Science.
+
+Please note that all courses required for a degree must be taken for a grade, not satisfactory/fail (S/F). In addition, transfer credit for courses satisfying any major requirements must be pre-approved by the department.
+
+Students pursuing a BS degree in Computer Science must first complete the following pre-major requirements:
+
+Calculus: Either MTH 14x, MTH 16x, or MTH 17x (placement determined by the Math department)
+
+As part of the University's basic science sequence regulations, a grade of C- or better is required to progress from CSC 171 to CSC 172 and from CSC 172 to CSC 173 (if the student takes CSC 173).
+
+Students must complete the pre-major courses with a total GPA in those courses no lower than 2.0.
+
+Students taking MTH 17x may take the MTH 150A supplement to satisfy the MTH 150 requirement.
+
+Students may declare their BS major in Computer Science after satisfying these pre-major requirements. Students whose primary major is Computer Science must have a Computer Science advisor (Hajim School instructions). Students must consult with their Computer Science advisor prior to declaring their major. Please click here to learn more about declaring your BS in Computer Science.
+
+Students pursuing a BS degree in Computer Science must then complete the following six (6) core courses:
+
+Students pursuing a BS degree in Computer Science must also complete the following additional requirements:
+
+The CSC 262 requirement may also be satisfied by any of the following courses: MTH/STT 201: Introduction to Probability, STT 213: Elements of Probability and Mathematical Statistics, or ECO 230: Economic Statistics. No other substitutions will be permitted.
+
+Students taking MTH 173 may count it to fulfill the MTH 165 requirement.
+
+Students pursuing a BS degree in Computer Science must then complete four (4) advanced courses in Computer Science.
+
+Advanced courses are full (4.0 credit-hour) courses numbered 200 or above, not included in the core courses listed above, and not including CSC 390: Supervised Teaching.
+
+Students may take CSC 393: Senior Project to fulfill one of their advanced course requirements.
+
+Students may take at most one advanced course outside Computer Science. Any such substitutions must be at an appropriate level, relevant to Computer Science, and must be approved by the student's Computer Science advisor in advance.
+
+No more than two core or advanced courses may be completed at other institutions unless all the external courses are taken as part of the University's education abroad program (formerly study abroad). Transfer credit must be approved by the department in advance.
+
+All Computer Science majors must also satisfy the University requirement for upper-level writing in Computer Science (see below).
+
+Students pursuing honors in research as part of their BS degree in Computer Science must also complete the following requirements:
+
+CSC 391H: Independent Study (Honors) or CSC 393H: Senior Project (honors)
+
+Maintain a 3.3 GPA over the pre-major, core, and advanced courses being taken for the degree
+
+Prior to taking CSC 391H or CSC 393H, the student must:
+
+Find and consult with a Computer Science faculty member willing to be their thesis advisor.
+
+The student may then register for CSC 391H or CSC 393H, usually under the supervision of their thesis advisor.
+
+Prior to taking CSC 395H (typically during CSC 391H/CSC 393H), the student must:
+
+Together with their advisor, formulate and refine a research topic.
+
+Find a second Computer Science faculty member willing to serve on their thesis committee.
+
+Submit a thesis proposal to their committee, obtain their signatures on a thesis approval form, and submit the form to the department.
+
+After CSC 391H/CSC 393H has been completed successfully and the thesis has been approved, the student must:
+
+Register for CSC 395H under the supervision of their thesis advisor
+
+Write or complete an honors thesis in the style of a scientific journal article. The written thesis must be given to the thesis committee no later than April 15 of the graduating year.
+
+Present the thesis in a public seminar and successfully defend it in a private oral examination by (at least) the thesis committee and an additional faculty member chosen by the departmental chair.
+
+The degree of honors awarded (“honors in research,” “high honors in research,” or “highest honors in research”) is determined by the Computer Science faculty in consultation with the student's honors committee. The quality of the thesis, its presentation, and other Computer Science research and publications throughout the student's undergraduate career are all considered.
+
+Students pursuing a BA degree in Computer Science must first complete the following pre-major requirements:
+
+All other pre-major requirements for admission to the BA are the same as for the BS degree.
+
+Students may declare their BA major in Computer Science after satisfying these pre-major requirements. Students whose primary major is Computer Science must have a Computer Science advisor (Hajim School instructions). Students must consult with their Computer Science advisor prior to declaring their major. Please click here to learn more about declaring your BA in Computer Science.
+
+Students pursuing a BA degree in Computer Science must then complete nine (9) additional courses for a total of twelve (12) courses, subject to the following requirements:
+
+At least three of the additional courses must constitute a track: an approved set of three or more related advanced courses
+
+At least two of the additional courses must be core Computer Science courses as described for the BS degree, but excluding MTH 165 and CSC 262.
+
+No more than one additional Computer Science course may be numbered below 171
+
+No more than two additional courses may be independent studies (39x)
+
+Track courses for the BA must be approved by the student's Computer Science advisor in advance. Pre-approved tracks are described at the end of this document. Students may design and propose a new track that reflects a coherent area of study and contains at least three advanced courses. Such tracks must also be approved by the student's Computer Science advisor in advance.
+
+At most one of the additional courses may be from outside Computer Science. Any such substitutions must be at an appropriate level, relevant to Computer Science, and must be approved by the student's Computer Science advisor in advance.
+
+No more than two of the twelve courses for the BA may be completed at other institutions unless all the external courses are taken as part of the University's education abroad program (formerly study abroad). Transfer credit must be approved by the department in advance.
+
+All students must also satisfy the University requirement for upper-level writing in Computer Science (see below).
+
+The University requires that all first-year students fulfill a primary writing requirement by the end of their first year. This is usually accomplished by taking WRT 105 in their first year.
+
+The University also requires all students to take two upper-level writing courses approved by their department for their major. In Computer Science, each upper-level writing experience must generate at least 25 pages of expository prose, with substantial feedback on content and form, and revision of the work.
+
+This may be accomplished by taking any two of the following courses:
+
+) may only be taken if approved by the student's Computer Science advisor in advance. (Typically this requires that the instructor certify to the advisor that the course meets the department requirements for upper-level writing.)
+
+Computer Science majors must complete two clusters: one in the humanities and one in the social sciences. All University requirements for clusters apply.
+
+The department offers several clusters for non-majors. Consult the cluster search engine for up-to-date information.
+
+Students pursuing a minor in Computer Science must complete six (6) Computer Science courses above the level of 130.
+
+Courses outside Computer Science may not be counted for the minor unless they were cross-listed with a Computer Science course at the time that they were taken.
+
+No more than two of the six courses for the minor may be completed at other institutions unless all the external courses are taken as part of the University's education abroad program (formerly study abroad). Transfer credit must be approved by the department in advance.
+
+In order to declare a Minor in Computer Science, you must have completed at least two (2) CSC courses and received a grade of C or better. Once you have done that, click here to schedule an appointment to declare your minor.
+
+Sample BS program with advanced course emphasis in computer systems:
+
+Sample BS program with advanced course emphasis in theory of computation:
+
+Sample BS program with advanced course emphasis in artificial intelligence:
+
+The following BA tracks are pre-approved by the department, subject to approval by the student's Computer Science advisor and assuming that the courses are offered.
+
+Natural Language Understanding (choose three or more, but no more than one course outside of CSC)
+
+Computational Science (choose three or more, but no more than one course outside of CSC)
+
+** No more than one non-CSC courses may count toward the 12 courses for the BA, including prerequisites.
+
+Students must first meet with their Computer Science faculty advisor to fill out either a BA or a BS plan. Once they have that signed, they can meet with the undergraduate program coordinator to declare a major in computer science. Prior to that meeting please consider the following:
+
+What advanced courses do you want to take to complete your degree?
+
+Have you completed your primary writing class? Students in the Hajim School must have completed this prior to declaring, with a grade of C or better.
+
+How will you meet your two upper level writing experiences?
+
+What clusters will you complete? You need two clusters as a computer science major, one in humanities and one in social science. These should already be in progress, but do not have to be completed yet.
+
+In most cases, students will change their course plans during their studies, and will need to speak with the undergraduate coordinator prior to graduation. You can change your advanced computer science electives at any time. We will adjust your file in your final year to include courses actually taken.
+
+Students wishing to declare a BA in computer science should have completed the following courses with a GPA of at least 2.0 and no grade lower than a C-:
+
+Click here to schedule an appointment to meet with the undergraduate program coordinator to officially declare your major. Please bring the BA planning sheet with you, which should include:  2 core courses; a 3-course track; foundational (no more than 1 CSC course can be below CSC 171); prerequisite courses; 2 upper level writing courses; and additional courses to meet the 14 courses needed. Also have a plan as to how you will meet the distributional requirements in Humanities and Social Sciences, whether it be clusters, minors or majors.
+
+Students wishing to declare a BS in computer science should have completed the following courses with a GPA of at least 2.0 and no grade lower than a C-:
+
+Students will then need to fill out a BS Planning Sheet with their faculty advisor. Once they have that signed, they will need to bring that to their meeting with the undergraduate program coordinator to officially declare the major. 
+
+Click here to schedule an appointment to meet with the undergraduate coordinator to officially declare your major. Please bring the BS planning sheet with you, which should include: prerequisite courses; 6 core courses; 1 linear algebra course; 1 statistics course; 3 upper level electives (no course below CSC200); 1 senior project (or a 4th upper level elective); and 2 upper level writing courses to total to 19 courses. Also have a plan as to how you will meet the distributional requirements in Humanities and Social Sciences, whether it be clusters, minors or majors.
+
+Schedule an appointment with Dani to learn more about the Computer Science Department
+
+Interested in summer research or graduate school? Advice from the CCC
+
+Students need to have their ID cards encoded for access in order to get in to the major computer science lab. Students who are having trouble accessing the lab should contact Dani Vander Horst in Wegmans 2513. Only declared CS Majors may have access to this space. 
+
+Students get account access when they take a class that has programming as part of the course, or when they officially declare their computer science (CS) major. Students taking CSC 172 or below, will use campus IT computers.
+
+To get an account, students need to be authorized by their instructor. See Dani Vander Horst in Wegmans 2513 if you are unsure about your eligibility.
+
+There is no undergraduate wireless network. You may be able to use the University UR_Connected wireless network however. Here is a link to University IT’s instructions: http://www.rochester.edu/it/wireless/.
+
+When logged into a computer in one of the CS labs you can access the web interface to manage your subscriptions at: https://www.cs.rochester.edu/mailman/listinfo/seminar.
+
+You will not be able to access that link from outside the firewall. To subscribe via email from outside the department send an email to seminar-join@cs.rochester.edu (subject and body of the email is ignored). You will receive a confirmation email. Reply to that message to subscribe.
+
+To unsubscribe via email from outside the department send an email to seminar-leave@cs.rochester.edu (subject and body of the email is ignored). You will receive a confirmation email. Reply to that message to unsubscribe.
+
+You should receive an email message if you are approaching your quota. If your disk quota is exceeded you may not be able to login and will have to report the problem to receive assistance.
+
+Clearing your browser cache, removing core dump files, and emptying your trash folder regularly can help keep your disk usage down.
+
+Students who find broken or malfunctioning equipment in the lab should report it via email to labstaff@cs.rochester.edu.
+
+All of our workstations currently run Fedora Linux. Here is a link explaining some basic Linux command line commands: http://mally.stanford.edu/~sr/computing/basic-unix.html.
+
+If you know the name of a command but want to know how to use it you can use 'man' to pull up the man page (manual page).
+
+This will display the manual page for the 'ls' command
+
+There are multiple ways students can get involved in computer science (CS) research. Students can:
+
+Attend groups working in natural language processing, machine learning, parallel and distributed systems, theory, robotics, knowledge representation, human computer interaction, etc.
+
+Speak directly to a faculty member about their research area and opportunities for undergraduates
+
+Though many students choose to use independent study research for elective course credit, there are opportunities for undergrads to be paid for the research work during either the school year or the summer.
+
+Faculty often have REU (Research Experiences for Undergraduates) funding to support undergraduate positions. Students can also apply for a summer REU at schools throughout the country. These typically include a stipend, a housing allotment and a small travel allowance.
+
+Please contact faculty members directly about research that interests you.
+
+Students should also see the Office of Undergraduate Research for more information.
+
+Fundamental concepts of digital data/information in the form of text, imagery, 3D data, and geographic information. We will cover how these are used in text editors, spreadsheets, image editors, animation tools, GIS, databases, and programming languages. Productivity tools in collecting, documenting, disseminating, and securing digital data applicable to other disciplines are also discussed and emphasized. Concepts in technology will be presented in the form of readings, audio/video podcasts, and guest lecturers. This class is not open to Computer Science majors. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+A hands on introduction to 3D computer graphics and animation techniques taught from a user point of view. Topics include 3D modeling, animation, and simulation. Assessment based on projects. No written exams. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Hands-on introduction to programming using the Python programming language. Covers basic programming constructs including statements, expressions, variables, conditionals, iteration, and functions, as well as object-oriented programming and graphics. Recommended for non-majors, and/or students with less math and science background. Lab and workshop required. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically.
+
+An introduction to the World Wide Web and related technologies. Topics include HTML5 and CSS3, Progressive Enhancement, and Web page design. Emphasis is placed on fundamentals, industry standards and best practices. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Hands-on introduction to programming using the Java programming language. Teaches fundamentals of programming and more advanced topics. Emphasizes algorithmic thinking and computational problem solving and provides an introduction to the concepts and methods used in Computer Science. Required for all CSC majors. Lab and workshop required. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Abstract data types (e.g., sets, mappings, and graphs) and their implementation as concrete data structures in Java. Analysis of the running times of programs operating on such data structures, and basic techniques for program design, analysis, and proof of correctness (e.g., induction and recursion). Lab and workshop required. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+An introduction to some of the most important formal models of computation, and their application to real-world computing problems. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+"Front-end" is an industry term that refers to the focus on HTML, CSS and JavaScript, which differentiates this course from the formal programming courses. Topics include information architecture, visual design, and use of client libraries (mostly JS); we will also cover Content Management Systems and introduce web databases using PHP and MySQL. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Quick! How much would a tunnel under Lake Ontario cost? How many people probably touched that orange you just bought at Wegmans? Can the military's satellites really read your license plate from orbit? Explores the creative use computational mechanisms and information sources to obtain rough estimates and feasibility analyses for interesting questions practical problems, and looks at the technological basis of the art of measurement. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+In this course, we will follow the growth of the Web from its toddler years, to early childhood, to its turbulent pre-teen and teenage years, and finally as it begins to mature as a young adult. Along this journey, you will learn influential Web technologies such as HTTP, HTML, JavaScript, CSS, the LAMP stack, XML, JSON, Ajax, WebSockets, and modern MVC frameworks. Even though you will be doing a lot of programming in this course, its purpose is not to teach you to become an expert in any particular language or framework. Web technologies change at a blistering pace, so specifics quickly get outdated. However, once you take this course and understand the fundamentals, you will be able to easily pick up new technologies on the fly. *No audits will be allowed for this course. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Coursework covers user interface designs and functional algorithms for mobile devices (iOS) and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management. Other topics include: object-oriented database API, animation, multi-threading and performance considerations. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+How can computer models help us understand how people perceive and reason about their environments? This course addresses this question, with emphasis placed on how people use probabilistic reasoning in order to represent and manage ambiguity and uncertainty for the purpose of making intelligent decisions. The course is relevant to students with interests in computational studies of human perception and cognition, and to students with interests in artificial intelligence. Homework assignments will require students to write computer programs using the Python programming language.
+
+PREREQUISITES: MTH 161 and MTH 162 (or equivalents), and computer programming experience
+
+Fundamental concepts and techniques of data mining, including data attributes, data visualization, data pre-processing, mining frequent patterns, association and correlation, classification methods, and cluster analysis. Advanced topics include outlier detection, stream mining, and social media data mining. CSC 440, a graduate-level course, requires additional readings and a course project. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+PREREQUISITES: Prerequisites will be strictly enforced: CSC171, CSC 172 and MTH 161. Recommended: CSC 242 or CSC262; MTH165.
+
+Introduces fundamental principles and techniques from Artificial Intelligence, including heuristic search, automated reasoning, handling uncertainty, and machine learning, to prepare students for advanced AI courses. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+PREREQUISITES: Prerequisites: MTH 150 and CSC 172. CSC 173 STRONGLY recommended.
+
+The logical foundations of AI including first-order logic, reasoning, knowledge representation, planning, and probabilistic inference. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+An introduction to statistical natural language processing and automatic speech recognition techniques. This course presents the theory and practice behind the recently developed language processing technologies that enable applications such as speech-driven dictation systems, document search engines (e.g., finding web pages) and automatic machine translation. Students taking this course at the 400 level will be required to complete additional readings and/or assignments. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Instruction set architectures. Advanced pipelining techniques Instruction level parallelism. Memory hierarchy design. Multiprocessing. Storage systems. Interconnection network. 
+
+Introduction to computer architecture and the layering of hardware/software systems. Topics include instruction set design; logical building blocks; computer arithmetic; processor organization; the memory hierarchy (registers, caches, main memory, and secondary storage); I/O—buses, devices, and interrupts; microcode and assembly language; virtual machines; the roles of the assembler, linker, compiler, and operating system; technological trends and the future of computing hardware. Several programming assignments required. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Modern software is complex and more than a single person can fully comprehend. This course teaches the principles and techniques of writing modular and composable code and collaborating with others in software design. The topics include advanced concepts and techniques in modern programming languages, principles of modularity, software architecture, design patterns, software development processes, and other examples of software design. A significant portion of the assignment is a group project to develop a groupware system. Students enrolled in the class are expected to already have significant programming experience in some languages. The programming languages used in lectures are mainly Ruby and Haskell. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+PREREQUISITES: CSC 252 and CSC 254 are recommended. Familiarity with Python and C are beneficial but not strictly required.
+
+Design and implementation of programming languages, with an emphasis on imperative languages and on implementation tradeoffs. In-depth examination of "how programming languages work." Topics include fundamental language concepts (names, values, types, abstraction, control flow); compilation and interpretation (syntactic and semantic analysis, code generation and optimization); major language paradigms (imperative, object-oriented, functional, logic-based, concurrent). Course projects include assignments in several different languages, with an emphasis on compilation issues. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Principles of operating system design, explored within the practical context of traditional, embedded, distributed, and real-time operating systems. Topics include device management, process management, scheduling, synchronization principles, memory management and virtual memory, file management and remote files, protection and security, fault tolerance, networks, and distributed computing. CSC 456, a graduate-level course, requires additional readings and assignments. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Introduction to computer networks and computer communication, architecture and protocols. Design of protocols for error recovery, reliable delivery, routing and congestion control. Store-and-forward networks, satellite networks, local area networks and locally distributed systems. Case studies of networks, protocols and protocol families. Emphasis on software design issues in computer communication. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+This course presents the fundamental concepts of database design and use. It provides a study of data models, data description languages, and query facilities including relational algebra and SQL, data normalization, transactions and their properties, physical data organization and indexing, security issues and object databases. It also looks at the new trends in databases. The knowledge of the above topics will be applied in the design and implementation of a database application using a target database management system as part of a semester-long group project. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+This course will cover foundational concepts in probability and statistical inference, with an emphasis on topics of interest to computer scientists. Following an introduction to elementary probability theory, topics will include applications of combinatorics; Markov chains; principles of statistical classification (Bayes' rule, sensitivity and specificity, ROC curves) and random number generation. The theory of statistical estimation and hypothesis testing will be introduced, and applied to one and two sample inference for population means, proportions, variances and correlations. Nonparametric procedures will be discussed. Topics also include statistical modeling (ANOVA, simple and multiple regression), and computational methods. Students will be introduced to the R statistical computing environment.
+
+PREREQUISITES: MTH 150 or MTH 150A; AND MTH 142 or MTH 161 or MTH 171
+
+Computer audition is the study of how to design a computational system that can analyze and process auditory scenes. Problems in this field include source separation (splitting audio mixtures into individual source tracks), pitch estimation (estimating the pitches played by each instrument), streaming (finding which sounds belong to a single event/source), source localization (finding where the sound comes from) and source identification (labeling a sound source).
+
+In this course, students prepare, critique, and discuss written materials relevant to Computer Science. Will count as one of the two upper level writing requirements for Computer Science majors. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Quick! How much would a tunnel under Lake Ontario cost? How many people probably touched that orange you just bought at Wegmans? Can the military's satellites really read your license plate from orbit? Explores the creative use computational mechanisms and information sources to obtain rough estimates and feasibility analyses for interesting questions practical problems, and looks at the technological basis of the art of measurement. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+The modern study of cryptography investigates techniques for facilitating interactions between distrustful entities. In this course we introduce some of the fundamental concepts of this study. Emphasis will be placed on the foundations of cryptography and in particular on precise definitions and proof techniques. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+PREREQUISITES: (MTH 150 or MTH 162), AND (CSC 171 or prior programming experience)
+
+How does one design programs and ascertain their efficiency? Divide-and-conquer techniques, string processing, graph algorithms, mathematical algorithms. Advanced data structures such as balanced tree schemes. Introduction to NP-completeness and intractable combinatorial search, optimization, and decision problems. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+The difference between computable and uncomputable problems andbetween feasible and infeasible problems. Regarding the latter, what properties of a problem make it computationally simple? What properties of a problem may preclude its having efficient algorithms? How computationally hard are problems? Complete sets and low information content; P=NP?; unambiguous computation and one-way functions; reductions relating the complexity of problems; complexity classes and hierarchies. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Human activity is embodied through all our sensorimotor capacities, immersed in our immediate physical, social & cultural surroundings. Interaction technologies such as Augmented Reality (AR) & Virtual Reality (VR) have shown vast potential to enhance the way we think, feel & behave by superimposing or substituting digital contents onto our reality. This new undergraduate course is an introduction to AR,VR & related technologies. This course helps students build a frame of reference of those technologies, apply them in design practices that address real-world problems, & actively reflect on social implications. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+PREREQUISITES: CSC 172 and CSC 214 required (or proven equivalent application development experience); CSC 131 recommended
+
+Computers and the Internet have transformed society over the past 50 years, with dramatic increases in human productivity; an explosion of options for news, entertainment, and communication; and fundamental breakthroughs in almost every branch of science and engineering. They have also contributed to threats to privacy; whole new categories of crime and anti-social behavior; disruptions in the job market; and the large-scale concentration of risk into systems capable of catastrophic failure. In this writing-oriented class, we will consider this with the goal of understanding how to shape technological change in ways that maximize the benefits and minimize the costs. Offers upper-level writing credit in Computer Science. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Computers and the Internet, perhaps more than any other technology, have transformed society over the past 50 years, with dramatic increases in human productivity; an explosion of options for news, entertainment, and communication; and fundamental breakthroughs in almost every branch of science and engineering. At the same time, they have contributed to unprecedented threats to privacy; whole new categories of crime and anti-social behavior; major disruptions in the job market; and the large-scale concentration of risk into systems capable of catastrophic failure. In this discussion- and writing-oriented class, we will consider all of this and more, with the goal of better understanding how to shape technological change in ways that maximize the benefits and minimize the costs. Offers upper-level writing credit in Computer Science.
+
+Hands-on introduction to programming using the Python programming language. Covers basic programming constructs including statements, expressions, variables, conditionals, iteration, and functions, as well as object-oriented programming and graphics. Recommended for non-majors, and/or students with less math and science background. Lab and workshop required.
+
+An introduction to the World Wide Web and related technologies. Topics include HTML5 and CSS3, Progressive Enhancement, and Web page design. Emphasis is placed on fundamentals, industry standards and best practices. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced.
+
+Hands-on introduction to programming using the Java programming language. Teaches fundamentals of programming and more advanced topics. Emphasizes algorithmic thinking and computational problem solving and provides an introduction to the concepts and methods used in Computer Science. Required for all CSC majors.
+
+Abstract data types (e.g., sets, mappings, and graphs) and their implementation as concrete data structures in Java. Analysis of the running times of programs operating on such data structures, and basic techniques for program design, analysis, and proof of correctness (e.g., induction and recursion). Lab and workshop required.
+
+Investigation of several formal systems influential in computer science, and also some of their applications (e.g. inspiring and providing the foundation for a computer programming style, or providing the basis for solving important practical problems like communications protocols, compiling, systems analysis, graphics ...) This course is available to majors only during the registration period.
+
+This course is a hands-on lab based introduction to software engineering and computer programming using the development of computer/video games as the application area. Topics will include mesh modeling, level design, asset management, shading, texturing, lighting, event scripting, character rigging, and particle effects.
+
+This course explores the possibility of consciousness in machines, both in the sense of perceptual awareness and self-awareness. Readings are from the AI literature as well as from philosophy and cognitive science. The course will begin with some general philosophical and cognitive science readings, and then shift emphasis to representational and computational aspects. Homework will include written answers to questions, essays, and -- for 291 students only -- a project that involves Lisp programming. The course will be suitable for writing credit. (4 hours, Spring)Not offered every year.
+
+PREREQUISITES: 191 Prerequisites: sophomore or higher standing, some programming experience;291 Prerequisites: CSC 173 and one or more of 240, 242, 280 , or 282.
+
+Intensive seminar on cooperative problem solving. Overview of the subdisciplines and the research of the University of Rochester’s computer science faculty. Instruction and practice on research methodology and procedures. The topic focus may vary from year to year. Check with the instructor for the course content. 200H required for the Honors B.S. in Computer Science. Students taking CSC 200H may have additional reading, assignments or projects.
+
+Intensive seminar on cooperative problem solving. Overview of the subdisciplines and the research of the University of Rochester’s computer science faculty. Instruction and practice on research methodology and procedures. The topic focus may vary from year to year. Check with the instructor for the course content. 200H required for the Honors B.S. in Computer Science. Students taking CSC 200H may have additional reading, assignments or projects.
+
+The course will explore the design, implementation, and evaluation of user-driven prototypes to be used by real users. Students will study the theoretical methods for design and evaluation, including requirements gathering, survey design, ethnography, rapid prototyping, and evaluation techniques. The theoretical knowledge will be supplemented with hands-on group projects including a final project. The final project will involve interactions with real-users along with a working prototype which hopefully could be deployed and used by people beyond the scope of this course.
+
+Coursework covers user interface designs and functional algorithms for mobile devices (iOS fall, Android spring) and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management. Other topics include: object-oriented database API, animation, multi-threading and performance considerations
+
+A robot can be defined as any artificial system that moves by itself under some sort of adaptive control. This course is intended to be a practical exercise in robot construction, with emphasis on creation of working robotic artifacts. The class will be divided into teams of 3-5, each of which will work to produce a separate mechanism. The robots to be built will be determined through discussion in the first couple of weeks.
+
+Fundamental concepts and techniques of data mining, including data attributes, data visualization, data pre-processing, mining frequent patterns, association and correlation, classification methods, and cluster analysis. Advanced topics include outlier detection, stream mining, and social media data mining. CSC 440, a graduate-level course, requires additional readings and a course project.
+
+PREREQUISITES: Prerequisites will be strictly enforced: CSC171, CSC 172 and MTH 161. Recommended: CSC 242 or CSC262; MTH165.
+
+This course will provide an introduction to computational neuroscience, the study of both the computations performed by the brain, and of computational models of neuronal responses. In the course we will focus on the visual system.
+
+PREREQUISITES: Programming experience is required, as well as familiarity with linear algebra and simple probability theory.
+
+Introduces fundamental principles and techniques from Artificial Intelligence, including heuristic search, automated reasoning, handling uncertainty, and machine learning, to prepare students for advanced AI courses. This course is available to majors only during the registration period.
+
+PREREQUISITES: Prerequisites: MTH 150 and CSC 172. CSC 173 STRONGLY recommended.
+
+Mathematical foundations of classification, regression, and decisionmaking. Perceptron algorithm, logistic regression, and support vectormachines. Numerical parameter optimization, including gradientdescent and quasi-Newton methods. Expectation Maximization. HiddenMarkov models and reinforcement learning. Principal ComponentsAnalysis. Learning theory including VC-dimension and PAC learningguarantees.
+
+This course addresses issues of representing computing meaning from natural language, especially issues of understanding language in context using commonsense knowledge of the world. Topics will include a survey of English phrase structure and parsing, semantic representation (e.g., events, semantic roles, time, causality and speech acts), and theories and techniques for understanding language in context, including intention recognition, text understanding using knowledge of scripts and plans, and models of spoken dialogue systems (e.g., conversational agents such as Siri). CSC447, the graduate level version of the course, requires a substantial individual project.
+
+Introduction to computer vision, including camera models, basic image processing, pattern and object recognition, and elements of human vision. Specific topics include geometric issues, statistical models, Hough transforms, color theory, texture, and optic flow. CSC 449, a graduate-level course, requires additional readings and assignments.
+
+PREREQUISITES: MTH 161 and CSC 242; MTH 165 strongly recommended
+
+This course addresses linguistic research questions through data science techniques. The course will focus on developing skills to (i) acquire and process a variety of language data, from using established corpora to capturing data in the wild, and (ii) to investigate language use, particularly syntactic and semantic phenomena, through descriptive and inferential statistical techniques. A significant part of the course will be devoted to hands-on projects and will include developing familiarity with using the programming languages Python and R to acquire and explore linguistic data. Familiarity with statistics and/or computational linguistics is advantageous, but not necessary.
+
+Introduction to computer architecture and the layering of hardware/software systems. Topics include instruction set design; logical building blocks; computer arithmetic; processor organization; the memory hierarchy (registers, caches, main memory, and secondary storage); I/O—buses, devices, and interrupts; microcode and assembly language; virtual machines; the roles of the assembler, linker, compiler, and operating system; technological trends and the future of computing hardware. Several programming assignments required.
+
+Programming is the automation of information processing. Program analysis and transformation is the automation of programming itself---how much a program can understand and improve other programs. Because of the diversity and complexity of computer hardware, programmers increasingly depend on automation in compilers and other tools to deliver efficient and reliable software. This course combines fundamental principles and (hands-on) practical applications. Specific topics include data flow and dependence theories; static and dynamic program transformation including parallelization; memory and cache management; type checking and program verification; and performance analysis and modeling. The knowledge and practice will help students to become experts in software performance and correctness. Students taking the graduate level will have additional course requirements and a more difficult project.
+
+Principles of parallel and distributed systems, and the associated implementation and performance issues. Topics covered will include programming interfaces to parallel and distributed computing, interprocess communication, synchronization, and consistency models, fault tolerance and reliability, distributed process management, distributed file systems, multiprocessor architectures, parallel program optimization, and parallelizing compilers. Students taking this course at the 400 level will be required to complete additional readings and/or assignments.
+
+PREREQUISITES: CSC 252 and (CSC   254 or CSC 256) or instructor permission
+
+This course presents the fundamental concepts of database design and use. It provides a study of data models, data description languages, and query facilities including relational algebra and SQL, data normalization, transactions and their properties, physical data organization and indexing, security issues and object databases. It also looks at the new trends in databases. The knowledge of the above topics will be applied in the design and implementation of a database application using a target database management system as part of a semester-long group project.
+
+This course explores the relational data model, the theory of database design, the use of databases in applications, and the internals of relational database engines. Topics covered will include the relational model and SQL; relational database design principles based on dependencies and normal forms; database topics from the application-building perspective, including indexes, views, transaction, and integrity constraints; query evaluation and optimization.
+
+This course is a continuation of CSC262, covering intermediate statistical methodology and related computational methods, with an emphasis on the R statistical computing environment. If registration is full, submit your info to our waitlist form https://forms.gle/hKTvap4et8cTUBZu6
+
+PREREQUISITES: CSC 262 (or equivalent such as STT213 or STT212) AND MTH 165 or MTH 173 or MTH 235
+
+In this course, students prepare, critique, and discuss written materials relevant to Computer Science. Will count as one of the two upper level writing requirements for Computer Science majors. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+This course will teach students the foundations of computer security. Students will learn what security is, the design principles of secure systems, how security is enforced, and how security is compromised. Topics include access controls, information flow, basic applications of cryptography, buffer overflow attacks, and malware.
+
+This course studies fundamental computer models and their computational limitations. Finite-state machines and pumping lemmas, the context-free languages, Turing machines, decidable and Turing-recognizable languages, undecidability.
+
+How does one design programs and ascertain their efficiency? Greedy algorithms, dynamic programming, divide-and-conquer techniques, string processing, graph algorithms, mathematical algorithms. Introduction to NP-completeness and linear programming. Students taking this course at the 400 level may be required to complete additional tests, readings or assignments.
+
+This will be a seminar-style course in which students will read and present papers on current research in Cryptography. Potential topics include lattice-based cryptography, concurrency and protocol security, database privacy, blockchain, cryptographic game theory and interplay of cryptography with other fields. The course will build on material covered in the introductory course (281/481) but is not a required prerequisite.
+
+PREREQUISITES: The course will build on material covered in the introductory course (281/481) but is not a required prerequisite.
+
+Advanced study of design and analysis of algorithms. Topics typically include: combinatorial optimization, computational geometry, number-theoretic algorithms, probabilistic analysis and randomized algorithms, string algorithms, streaming algorithms. Students taking this course at the 400 level may be required to complete additional tests, readings or assignments.
+
+This course explores the possibility of consciousness in machines, both in the sense of perceptual awareness and self-awareness. Readings are from the AI literature as well as from philosophy and cognitive science. The course will begin with some general philosophical and cognitive science readings, and then shift emphasis to representational and computational aspects. Homework will include written answers to questions, essays, and -- for 291 students only -- a project that involves Lisp programming. The course will be suitable for writing credit. (4 hours, Spring)Not offered every year.
+
+PREREQUISITES: 191 Prerequisites: sophomore or higher standing, some programming experience;291 Prerequisites: CSC 173 and one or more of 240, 242, 280 , or 282.
+
+This course covers special topics that are of current interest in the area of Quantum Computing. Topics vary by term. Check term detail for information regarding a particular semester.
+
+This course covers special topics that are of current interest in the area of Computer Science (other). Topics vary by term. Check term detail for information regarding a particular semester.
+
+Hands-on introduction to programming using the Python programming language. Covers basic programming constructs including statements, expressions, variables, conditionals, iteration, and functions, as well as object-oriented programming and graphics. Recommended for non-majors, and/or students with less math and science background. Lab and workshop required.
+
+Computers are universal tools to store and process information. The storage part is organized as data structures; the processing part is captured as algorithms. Together, these form the heart of every computer application (in science, government, business, and the arts), on every kind of information (pictures, numbers, sound, and text). We will study the most fundamental data structures and algorithms as a means of using computers more effectively, and as preparation for more advanced study in CS and related fields.
+
+An introduction to the World Wide Web and related technologies. Topics include HTML5 and CSS3, Progressive Enhancement, and Web page design. Emphasis is placed on fundamentals, industry standards and best practices. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced.
+
+Hands-on introduction to programming using the Java programming language. Teaches fundamentals of programming and more advanced topics. Emphasizes algorithmic thinking and computational problem solving and provides an introduction to the concepts and methods used in Computer Science. Required for all CSC majors.
+
+Abstract data types (e.g., sets, mappings, and graphs) and their implementation as concrete data structures in Java. Analysis of the running times of programs operating on such data structures, and basic techniques for program design, analysis, and proof of correctness (e.g., induction and recursion). Lab and workshop required.
+
+"Front-end" is an industry term that refers to the focus on HTML, CSS and JavaScript, which differentiates this course from the formal programming courses. Topics include information architecture, visual design, and use of client libraries (mostly JS); we will also cover Content Management Systems and introduce web databases using PHP and MySQL. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Coursework covers user interface designs and functional algorithms for mobile devices (iOS fall, Android spring) and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management. Other topics include: object-oriented database API, animation, multi-threading and performance considerations
+
+This course presents the fundamental concepts of database design and use. It provides a study of data models, data description languages, and query facilities including relational algebra and SQL, data normalization, transactions and their properties, physical data organization and indexing, security issues and object databases. It also looks at the new trends in databases. The knowledge of the above topics will be applied in the design and implementation of a database application using a target database management system as part of a semester-long group project.
+
+In this course, students prepare, critique, and discuss written materials relevant to Computer Science. Will count as one of the two upper level writing requirements for Computer Science majors. If the course is closed, DO NOT email the professor. Fill out this form to be added to the waitlist: https://goo.gl/forms/IyFoIfjrtISvJls62. Additional places, if any, will become available automatically for online registration.
+
+Computers and the Internet, perhaps more than any other technology, have transformed society over the past 50 years, with dramatic increases in human productivity; an explosion of options for news, entertainment, and communication; and fundamental breakthroughs in almost every branch of science and engineering. At the same time, they have contributed to unprecedented threats to privacy; whole new categories of crime and anti-social behavior; major disruptions in the job market; and the large-scale concentration of risk into systems capable of catastrophic failure. In this discussion- and writing-oriented class, we will consider all of this and more, with the goal of better understanding how to shape technological change in ways that maximize the benefits and minimize the costs. Offers upper-level writing credit in Computer Science.
+
+Each year we hold a meeting for students interested in a better understanding of the graduate school application process.  The following summarizes a recent conversation between undergraduate, graduate students and faculty members.
+
+The best research-oriented computer science departments in the US are members of CRA, the Computing Research Association.  See the list of CRA member universities.  Find each department's home page, and browse their faculty and research.  Approach your faculty advisor and other professors, and ask them for input about the best schools given the area of research.  Apply to about 10 schools and make sure you have reach, middle and fallback schools, just like undergraduate applications.
+
+YES, YES, YES!  If you receive a fellowship prior to being accepted to a school, you are certainly considered a more attractive candidate because the school will not have to fund you.  You will benefit from larger stipends, greater freedom to study at your own pace, and more.  You should be sure to apply for an NSF Graduate Research Fellowship.  Here is a list of graduate fellowships to consider.
+
+Can I work for a year or two before attending graduate school?  Do they like that or not? 
+
+Many students do apply to graduate school after working for a period of time.  Spending 1 to 3 years working before applying to graduate school will not hurt your chances, and may help if you work at a well-known research company.  If you work for a longer period, however, you should make clear on your application that your academic skills are up to date.  Admissions committees take letters from faculty members more seriously than letters from employers.  It can be hard to get an informative letter from a faculty member you studied with several years after graduation.  You should try to stay in contact with your favorite teachers, so that they can write good letters when the time comes. GRE scores are valid for five years, so it makes sense to take the GREs before completing your undergraduate degree, when the material is fresh and you are more accustomed to preparing for tests.
+
+Should I get a Master's degree before going for my PhD?
+
+If your end goal is a PhD, it is best to apply directly to a PhD program.  Most departments use different criteria for admitting MS students, and usually provide little or no financial support for MS students.  The only reasons for applying for an MS program if your end goal is a PhD is if your undergraduate grades are poor or if you majored in a subject under than computer science and took few computer science courses.
+
+Our faculty isn't always in agreement on this!  Some consider the GPA to be most important, some give stronger weight to the letters of recommendation.  All agree that GRE scores might be a first cut-off (anyone below 'x' is unlikely) to make the applicant pool more manageable. Great personal statements or letters of recommendations may give your application a second look if something else is a little weaker.  Having letters of recommendation from people who are personally known by the faculty at the school to which you are applying is a great help.
+
+It's very important to show enthusiasm and potential for research ability.  Though you may be sending this to many schools, it's important to look committed and show that you care about this particular school/department.  Don't necessarily go to a website and reference a certain project as your only area of interest.  The website may not have been updated in years and that project could be long gone.  However, you might mention why a particular project on a website looked interesting to you.  Indicate why you want to be a scientist.  Be yourself, but be professional!
+
+Unlike your undergraduate application, a personal statement for grad school should avoid references to life-altering moments, should not be schmaltzy, and doesn't need to have a gimmick.  It needs to be an honest reflection of your interests without any games.  Have others, including your faculty advisor, review it for suggestions before you send the application.  They will have great advice for making the right impression.
+
+If I'm invited to visit a school, what do I need to find out while I'm there?
+
+Make sure you talk to current graduate students while you are there. What is the research process there?  Ask them how their advisors handle the research process.  Are you working on your own work, or are you expected to work on the principal investigator's research and fit your PhD work during your 'free' time?  Will that mean it will take you longer to complete your research/degree?  Will you be part of a big project group, working on a small portion of that project?  Is that OK with you?  Who makes the decision to admit you, the department or a particular Principal Investigator?  If the department admits you, you may have more flexibility to pick your advisor and your topic.  If the PI is funding you, you may be funded by him/her, and if you were to decide not to continue with that advisor, you may find it difficult to get funding.  How difficult is it to switch advisors?  What is the cost of living for things like housing at that school, and do students find it possible to live on the stipend they are given?  How long does the average student take to complete the PhD?
+
+"So long, and thanks for the Ph.D.!", by Ronald Azuma.
+
+Open your eyes to the worldScience and technology have no borders! Invest in your future by developing cross-cultural skills that will enable you to communicate with scientists anywhere in the world.
+
+Enhance your careerLearn how to function in a culturally diverse environment early on. Develop broader skills and the ability to adapt to new environments.
+
+Personal growthSee your culture and yourself from a different perspective. Learn to appreciate other languages and global perspectives, while better understanding your own values.
+
+Did you know?You do not need to speak another language to study abroad. Many programs offer courses in English.
+
+The following programs are especially suited for students looking to take computer science courses while abroad:
+
+For more information about studying abroad visit the Hajim Study Abroad site.
+
+For major or departmental course credit please email syllabi and course information to: transfercredit@cs.rochester.edu. 
+
+Take Five ScholarsStudents who apply and are accepted to this program pursue broader academic interests in a fifth year of tuition-free study.
+
+GEAR (Graduate Engineering at Rochester)GEAR allows you to skip the GRE exam before entering into your fifth year as a master's candidate. When accepted to the GEAR program as an undergraduate, you're also given assurance of admission to the University's Hajim School of Engineering and Applied Sciences (located right on Rochester's main campus) in one of nine master's programs. Students interested in the GEAR program should visit the GEAR Admissions page.
+
+Industry Practicum Co-op ProgramDesigned for engineering and computer science students, this program provides quality workplace experience through paid, full-time employment.
+
+ e-5 (formerly Kauffman Entrepreneurial Year) Programe-5 students continue their studies tuition-free to pursue entrepreneurial endeavors with the help of the Hajim School of Engineering and Applied Sciences and Simon Business School faculty. Qualified students may propose to devote as much as an entire academic year to internships, special projects, business plan development, research into various factors for a successful entrepreneur, or analysis of how culture and public policy influence entrepreneurial activities.
+
+Study AbroadOther opportunities to take science and engineering classes abroad during the academic year are available to students of science and engineering.
+
+Xerox FellowsThe Xerox Undergraduate Fellows Program provides engineering undergraduates with an opportunity to participate in a research experience during the summer preceding their senior year.
+
+What is Computer Science?  In Computer Science, we study computational methods, called algorithms, for solving problems, and the systems we build to run those algorithms. We study how to think about them, how to evaluate and compare them, and how to use them to develop solutions and applications.
+
+What degrees do you offer in Computer Science? We offer BS and BA degrees, as well as a Minor in Computer Science. The BS provides rigorous preparation in all core areas of computer science and is for students interested in cutting-edge R&D careers in industry or academia. The BA provides a more flexible course of study that is good for students with interdisciplinary interests. It is popular with double majors and students interested in careers in a computer-related discipline or industry.
+
+Where do people with a Computer Science degree go after college? UR CS graduates go to the best graduate schools like MIT, CMU, Berkeley, Princeton, Stanford, and others, or go to work at companies ranging from Google, Microsoft, and Apple to startups working on data science, affective computing, virtual reality, and much, much more. In a typical graduating class, about 20% of our students join full-time graduate programs upon graduation.
+
+What kind of courses do you offer? Our courses are divided into introductory and pre-major courses, core Computer Science courses, and advanced courses in many different areas, often associated with our faculty members’ research interests. The introductory courses teach the basics of programming, algorithmic thinking, and the design and analysis of programs. Our core courses teach formal (mathematical) models of computation and their applications, principles of computer systems, foundations of artificial intelligence, and the theory of computation. Our advanced courses range from the web to machine learning to human-computer interaction to robotics and much more.
+
+I’m a freshman. How do I get started in Computer Science? Incoming freshmen typically take CSC171 and MTH150 in their first term and CSC172 and their first Calculus course in their second semester. Students with AP or other advanced credit can start with CSC172 and MTH150 (see below). Once you’ve completed CSC172 satisfactorily, you may declare as a CSC major and start taking the core CSC courses.
+
+I’m not a freshman but I want to get into Computer Science. How do I get started?You need to take CSC171 and MTH150, followed by CSC172. You then need to complete the additional requirements for the BS or BA degree. Please note that it is generally not possible to complete a CSC degree in two years starting in the junior year.
+
+How many Computer Science majors are there? Students need to complete 3 pre-major courses (including CSC172) with an average of 2.0 in order to declare either their B.S. or B.A. major.  We currently graduate about 115+ majors per year. We have no caps on the number of Computer Science majors. We have over 500 students in the CSC pipeline though not all have officially declared their majors.
+
+What if I have multiple interests?  The flexibility of the Rochester Curriculum attracts students with diverse interests to the University of Rochester. More than 50% of our Computer Science majors double major or minor in another discipline, some as an outgrowth of their clusters.   Common double majors and minors include Mathematics, Financial Economics, Linguistics, Brain and Cognitive Science, Studio Arts, English, Music, Digital Media Studies and Business.
+
+How big are the classes in Computer Science? Computer Science is growing both nationally and at Rochester. The introductory class CSC171 is 150-200 students, with smaller lab sections and peer-run study groups of about twelve students. CSC172 and core courses average about 125-150 students each. Advanced courses average 50-75 undergraduates.
+
+How will my Advanced Placement Computer Science work be considered toward my Computer Science curriculum? Students who have completed the CEEB Advanced Placement Computer Science A exam with a score of 4 or 5 will receive 4 credits of elective CSC coursework, and will be evaluated at orientation. Please check with your CSC advisor during Orientation to be sure of accurate placement in CSC courses. Our goal is to place you correctly so that you are neither over your head or bored with the material. We also want students to be prepared for the next level course they would be expected to take.
+
+Do I need a computer in my room? What kind should I get?Students are not required to have a computer of their own when they come to campus but nearly all students do. They can access the computer science labs remotely at their convenience, from their dorm room, library or lab using ssh protocols. It doesn't matter whether your computer is a Mac or a PC, dual boot, notebook, laptop or desktop. The network on campus can accommodate any computer. Each dorm room is wired through ResNet and there is wireless access around campus. Our department's systems run Fedora Linux. For more information about the kind of computer you can purchase with educational discounts, check out the UR Tech Store: http://tech.rochester.edu/services/ur-tech-store, email: urtechstore@rochester.edu, telephone: 275-8353.
+
+What types of research can students do as undergraduates, and how soon would I be able to do it? Undergraduates interested in research can work on ongoing projects in systems, theory, artificial intelligence, and human-computer interaction. Our research meetings are open to anyone. Students can check the department event calendar to find research meetings that might interest them. Students may need more advanced coursework to be active participants in certain projects. Interested students should approach faculty members in their area of interest and ask what level of expertise is required for them to be successful researchers. We have had students begin working on research as early as freshman year, but most wait a little longer to get started.
+
+What opportunities are there for me to work (including internships)? On-campus job opportunities abound for computer-literate students! Whether you work for University Information Technology in the campus computing facility, for ResNet connecting the dorms, in departments doing computation on research, or at Strong Memorial Hospital in a medical application, there are plenty of jobs on campus.
+
+Students interested in gaining on-the-job experience during the summer have many options. In previous years, we have had students do summer internships at Google, Amazon, Apple, Microsoft, Facebook, IBM, NASA, Xerox, Intel, FactSet, 1010Data, Mathworks, Khan Academy, Zappos, Vistaprint, LinkedIn, Yahoo, HBO, Etsy, Shutterstock, Leapfrog, GoDaddy,  etc. We have also had students do fellowships, REUs (Research Experiences for Undergraduates) or mentorships at MIT, the National Institute of Standards (NIST) and at other colleges around the country. Due to course scheduling, we do not have a formal co-op program for students to work full time through the academic year. We encourage students to work in the summers between academic years to get hands-on experience. Many students return to campus for their senior year with job offers from their summer employers. 
+
+Those seeking employment after graduation can work with the University of Rochester Gwen M. Greene Career and Internship Center, follow leads sent directly to our faculty or staff, or network through our alumni working in well-placed positions throughout the computer industry. Recent graduates have entertained multiple offers with very competitive salary ranges at large companies like Google, Amazon, Microsoft, IBM, Intel, Facebook, LinkedIn, Vistaprint, and Apple as well as throughout the country at companies big and small.
+
+Can I study abroad as a CSC major? Absolutely! Each semester we have several students who are studying abroad but we would like to encourage more students to discover the benefits of this global experience.  Many of the students are attending English-speaking programs in Hungary, Australia, United Kingdom, Spain, Sweden, and Israel, and taking courses in both technical and non-technical fields.  Some students (many who double major in a foreign language) choose to go to countries where the courses are not in English and fulfill requirements for their foreign language major.  If you are interested in studying abroad, a four-year course plan can be worked out to see what semesters are optimum for your global experience and make it happen. CSC students have studied in Germany, Belgium, Russia, Japan, Singapore, Hong Kong, Greece, Cyprus, Ireland, Scotland, England, Spain, Sweden, France, Australia, New Zealand, Israel, Hungary and China.
+
+What kind of equipment is used in the department? Student labs in the computer science department are equipped with workstations running Fedora Linux. There are 2 undergraduate student labs, one on the 2nd floor of Wegmans Hall (for declared majors only) and the other in Hylan 301. Students may also connect remotely from anywhere to work on the servers. Students involved in research with faculty have access to a wide variety of high-performance computing clusters and specialized equipment in the Human-Computer Interaction and Machine Vision laboratories.
+
+What can I do to better prepare for the Computer Science major? Computer programming requires a lot of practice. If you have the opportunity to program in any language (Java, C, C++, Perl, Python, Ruby, LISP, etc.) it will benefit you. However, our curriculum is designed so that if you have never had any programming, you will have the ability to start with the basics and work your way up. Those students who have considerable coursework and experience in CS will also have opportunities for advancement at a more individual pace. Since student experience varies greatly, your advisor will review your history before recommending your course of study.
+
+Can I start a major in Computer Science as a junior?Our program is designed to take four years. Depending on how things go in the early years, some students will have completed their major requirements before the start of their senior year. However due to the sequential nature of the pre-major and core courses, it is impossible to complete the BS requirements and almost impossible to complete the BA requirements in four semesters. In addition, our pre-major and core courses are very popular and often fill up early. Some introductory courses also reserve places for freshmen and/or sophomores. We therefore STRONGLY ADVISE AGAINST attempting a Computer Science major starting in the junior year. A more realistic plan for a student with a late-developing interest in Computer Science is a minor.
+
+Can I double-major in Data Science? Computer Science and Data Science share many courses, so double-majoring is not allowed. Students in Data Science may minor in CSC however. If you are a CSC major interested in data science and analytics, you may choose your advanced electives in CSC to specialize in courses that Data Science students are required to take (such as CSC240, CSC246, and CSC261).
+
+What is the difference between Computer Science & Electrical and Computer Engineering? Can I do both? Computer science focuses on software while computer engineers focus on hardware. The CS and ECE departments overlap and collaborate in the area of computer architecture.  Although CS is part of the Hajim School of Engineering and Applied Sciences, its curriculum requirements are more similar to those of the College of Arts & Sciences. CS majors are required to complete two clusters, while ECE majors are required to complete only one.  ECE majors are required to take physics and chemistry, but CS majors are not. The ECE program is accredited by ABET (the Accreditation Board for Engineering and Technology), which is significant for students who wish to become a licensed Professional Engineer.  Computer scientists rarely become licensed Professional Engineers.
+
+We have had students who have completed both an engineering curriculum and the computer science curriculum. A student who chooses to tackle this difficult double degree should have some AP credits, excellent time-management skills, and have few outside activities that distract from the difficult workload. A student may also need to plan to overload courses each semester, take summer courses, or extend beyond 4 years. Students may also choose to minor in either, while majoring in the other department.
+
+What is the BS/MS Program, and could I be a candidate for it? The BS/MS Program allows students to complete a Masters Degree by the end of their 5th year. Students interested in this program would have AP/transfer credits as entering freshmen that allow them a more advanced standing. With careful schedule planning in the sophomore year, a student could arrange to complete undergraduate requirements (128 credits) and begin graduate requirements (30 credits) while still an undergraduate.  However, only 10 credits taken prior to completion of a bachelor degree may count toward the student’s graduate program. Students spend the fifth year taking the remaining graduate requirements. Application to the program is made in the senior year by completing the UR graduate application. Letters of recommendation from UR faculty and a minimum GPA will be required.
+
+Is there a student organization for Computer Science majors?The Computer Science Undergraduate Council (CSUG) is an active group that does both social and academic events that are well attended by majors and non-majors alike. Students at any grade level are encouraged to become active in CSUG events. There are other clubs such as RocHack, UR WIC (Women in Computing) and UR Robotics, and competition teams for ACM Programming Competition and CS Games. These clubs give students hands-on experience, application design, problem solving and a “maker” culture that inspires innovation and discovery.
+
+Here is an historical look back at our annual newsletter featured alumni.
+
+Darrell Anderson graduated from UR in the first official undergraduate graduating class from the Computer Science Department in 1996. He was the first student to receive a B.S. (the luck of the alphabet!) and now has completed his Ph.D. from Duke this summer. He has the honor of being the first URCS official undergrad to receive a doctorate. He remembers his academic career at UR & Duke in his essay.
+
+On my desk I keep an old, white ceramic coffee mug with a scratched and fading Meliora logo. I bought it in the spring of 1996 during my senior year, and the year that the University of Rochester officially recognized the Computer Science degree. I credit many of the URCS folks, in particular Michael Scott and then BCS grad student Jeff Pelz, for keeping me busy enough to get a lot of use from that mug, and for cultivating my interests to the point that I'd pursue them into graduate school. After Rochester, I brought my coffee mug to Duke University in sunny Durham, North Carolina. Here it has been a vessel for about a kilogram of caffeine over the course of my Ph.D. program. I should wash it before I hit the 2 kg mark. I've been working with Jeff Chase on my dissertation “Virtualized Network Storage." I could describe it in detail, but just in case you don't have drops handy for when your eyes glaze over, I'll just say the basic idea is to distribute a single-server network file system (Sun's NFS) across an ensemble of machines by rewriting and redirecting packets at the network level. This approach maintains compatibility with standard clients by preserving the appearance and failure semantics of a single server, but with vastly superior scaling properties. While academics demand a great deal, it's good to remember the world beyond the one we make for ourselves. When not staring at a screen I've been leading rock climbing trips for Duke Athletics, as well as pursuing the hobby on my own time with friends. To date I've participated in over a hundred trips across half a dozen states and three countries. This fall my last student ID will expire and I'll take my coffee mug to Mountain View, California where I am joining Google. At Duke I work with distributed systems comprising some tens of machines. Google uses 25,000 to host their service. I'm looking forward to the new playground.
+
+This year’s featured alumnus is Aaron Muderick, ‘98. Aaron worked in the computer consulting industry after graduation, but has since found more enjoyment in his current endeavor, Crazy Aaron’s Thinking Putty (www.puttyworld.com). Those who remember Aaron would not be surprised that he’s ventured into something off the beaten path. Marty Guenther interviewed “Crazy Aaron” about his exciting project.
+
+How did putty become such a focal point in your life? After graduation, and in the midst of dot com mania, I was a software engineer building web applications. Most of my colleagues were about the same age and our office was classic geek. Nerf guns all over. Quake matches every afternoon. I even had a Maquarium (old Mac SE turned aquatic home) in my cube. I wanted to step things up a notch and impress my coworkers with my true inner geek, so I decided that the coolest thing I could do was buy 100 lbs. of bouncing putty stuff and bring it into work. I had always had a “can never get enough” thing with those tiny eggs and I thought, maybe 100 lbs. would quench my thirst for it. Well, after I dropped the 100 lb. lump on my buddies, they all wanted their own piece. In a few days the whole 100 lbs. had been cut up and sold. Hmmmm, I thought, maybe there’s something to this putty!
+
+Most upperclass CSC students would tell freshmen to never procrastinate on homework assignments. Was Crazy Aaron’s Thinking Putty developed as merely a procrastination instrument from your consulting work? It definitely became that. After the dot com bomb the kind of consulting work I was doing got a lot less interesting. My clients were taking fewer risks overall and the systems I was designing weren’t challenging. I found that after a full day of slogging away at code I hated, it was hard to focus my ideas on my own software ideas at home. I needed to detach myself from the keyboard for a while.
+
+What experience at URCS gave you the courage to become a successful entrepreneur? What I learned in the URCS program was that it takes a long time to go from idea to completed invention. By watching the progress of different professors’ research over four years, I really got a sense of how long it took to think out all the angles and all the variables on a complex problem. It really gave me a sense of patience that I needed to get Thinking Putty off the ground. The end product seems simple enough. But, I had to explore so many different possibilities and test each one before I could reach the end result.
+
+Your website shows that avid putty fans are quite creative with their use of putty. What is your favorite way to pass the time with putty? Well darn it, what people did with the stuff really says a lot about them as people. You have your sniffers (they don’t touch, just sniff it and then put it down), your hand washers (touch it to be polite and then run to wash up), your model makers (they take it and immediately sculpt some crazy creature), your imitators (they sculpt right away but always something recognizable, like a Disney character), your engineers (making geometric shapes and then endlessly straightening them as the putty melts), your poppers (they quickly discover you can catch air bubbles in it and make bubble gum popping sounds during meetings), your stretchers (they get hypnotized by how it can become as thin as spider silk when you stretch it), your squeezers (just kneading away in their hands), and a few other types. My favorite thing to do (and the best “perk” of the job) is to lay out about 500 lbs. and take a nap on it. Sounds silly. The stuff molds to your shape, is cool to the touch, and is actually pretty comfortable. Maybe that’s why so many kids fall asleep with it in their hair.
+
+Do you have a vision for the future of putty? The vision is simple: To make the world a better place by spreading the love of putty. Putty is fun. Putty makes people happy. Putty breaks down social barriers. I have lots of customers who use it when the office from Seattle has to meet with the office from Japan, and they don’t speak the same language. It sounds corny. The future is more people, more fun, more happiness. I believe Thinking Putty can make the world a better place. Ok, I lied. The future is Total World Domination through the use of mind control agents I place in each lump of Thinking Putty. Ack! Did I just say that out loud?
+
+I’m sure that developing a putty empire has been a "stretch" for you both emotionally & financially. What has been your biggest challenge? “Putty Empire”, hmmm, I like the sound of that... I always have faith that the money side of things will take care of itself. That’s not to say that starting a business and taking on so many financial risks isn’t terrifying (it is!). The biggest challenge was making the decision to leave “computers”. Obviously, I had invested a lot of hard work (and years) in software and computing. It was a big mental leap to go from Thinking Putty as a side business towards making it the whole pie.
+
+What advice would you give to CS students looking for something unconventional for their life’s work? Go for it! Obviously. Just remember that ideas are a dime a dozen and actual execution is everything. If you are really really into your idea, that force of belief will rub off onto others and start the snowball rolling down the hill. Be honest with yourself though, if you’re not that passionate, maybe you should find another idea ( is a good source if you need a creative jumpstart!). Remember: If you want to be the best at what you do, then do something no one else is doing. You can start out at the top!
+
+Any final thoughts? Sometimes you don’t realize you’ve been exposed to something really great until you leave it behind. After I graduated and started working with CS graduates from other schools, I was amazed that we really hadn’t taken the same classes. So many schools had taught CS with a “software for business” focus: “Here’s how to write software for the big company you’ll work at one day”. The theory and foundations of Computer Science that I learned at URCS got me thinking on a different level. It served me well when I was designing software and it still serves me today. The biggest challenge was making the decision to leave “computers”. Obviously, I had invested a lot of hard work (and years) in software and computing. It was a big mental leap to go from Thinking Putty as a side business towards making it the whole pie.
+
+In 1997, when Josh Blumberg graduated from UR with a double degree in Computer Science and Cognitive Science, the dot com industry was still on the rise. His classmates accepted jobs at major corporations, consulting firms and small software houses at ever increasing salaries. Josh, however, wasn’t looking for the “get rich quick” corporate gig. At graduation, his plans were uncertain, but he hoped to crew a sailboat over to Israel, climb some high peak, or explore the world.
+
+Cognitive Science and computer science offered something of a unique opportunity for Josh. His course track of “Learning” in Cog Sci allowed him to incorporate the two seemingly divergent fields of education and computer science by looking at the way these disciplines perceive learning. While at UR, he volunteered as a tutor for city school children to apply some of his newly acquired knowledge. Josh’s interests weren’t limited to CSC and education, however. His love of the outdoors even inspired him to study for a semester in the desert southwest, backpacking and living under the stars while getting college credit for field study courses from a west coast university.
+
+So how does a computer scientist resolve the conflict between the daily confines of the programmer’s cubicle and the open skies of the great outdoors? Do as Josh did, and find a willing employer! In his case, he found a company that would allow him the flexibility of working for several months, and then leaving for an undetermined period of time. During the months of his walkabouts, Blumberg was an Outward Bound counselor, spent time hiking around the U.S and visiting friends on the west coast. After returning multiple times to his programming job in Maryland, Josh decided it was time to reach for his true calling, teaching. Here he could combine his knowledge of computer science and his interest in learning. He researched to find the best private high school in the country, sent in his application to Eagle Rock School in Colorado, crossed his fingers and waited. He was accepted for a one year position as an intern and resident computer lab technician, packed his backpack and moved to the mountains of Colorado. His days involved teaching an occasional course, running the computer labs, and hiking with the students at this Honda-supported school near the Rocky Mountain National Park.
+
+Blumberg has settled now at The Rivers School, a private 6th-12th grade park-like campus outside of Boston. He has always been interested in alternative education and the teaching of logical reasoning through computer science. At Rivers, he teaches AP Computer Science and manages the school’s network. The school’s philosophy includes ample time for outdoor teaching activities, sports & music. In his teaching, Josh has noticed that his background as a CSC major sets him apart from many high school teachers of AP Computer Science, who are often math teachers with little computer science background. When asked what advice Josh would give CSC students interested in pursuing a teaching career, he suggested students should look at private schools as they have more flexibility and control over their programs than public schools. Certification to teach computer science varies from state to state, making it difficult to qualify for positions in local school districts. Private schools often have more computer science electives for their students and don’t need to follow rules for state certification. Though there are difficulties sorting out the regulations for high school teaching, Josh believes that CSC majors have great skills to share with the future generation of computer scientists.
+
+Blumberg’s career choices quickly dispel the notion that a computer science degree means you’ll be locked in a cubicle staring at a computer screen for the rest of your life. Josh has found his UR degrees have allowed him to climb to new heights, both professionally and recreationally.
+
+When Steve Marx arrived on campus as a freshman in Fall 1999, he was part of the biggest class in our department’s history. The success of the dotcom industry brought throngs of students into our program, but it wasn’t long before Steve set himself apart from the freshmen class. In his first year here, he developed an algorithm that he presented at the 2000 Western New York Image Processing Workshop. He was a workshop leader for CSC 172 the following year, a member of Strong Jugglers, and a performer with the Midnight Ramblers a cappella group. At the end of his 3rd year, he graduated with many graduate courses under his belt and a healthy dose of research experience.
+
+His successful job search led him to Microsoft in Redmond, WA where he accepted a position as a ‘software design & test’ engineer. Microsoft, being the meritocracy that it is, rewarded Steve well for his debugging successes, and soon Steve was moved to a newly created group called the Code Excellence Team. He found that one of the biggest challenges in this position was influencing a change in coding techniques with the front line coders, when his team had no direct supervisory authority over them. Without such a chain of command, he has found many ways to be persuasive enough to convince programmers to follow the Code Excellence methods. With engineers, the most convincing proof is hard data, such as dollars or time saved, or fewer bugs detected by correct coding methods. Creating a cultural change can be quite an undertaking, but Steve feels that the Code Excellence Team is making steady progress toward a ‘bottom up’ improvement in the quality of the code throughout Microsoft’s operations.
+
+Marx says one of the most surprising things about his work life after college is that it isn’t as different as he thought it would be. Microsoft’s flexible work hours and casual attire policy make it seem more like a continuation of college than many 9-5 jobs. One change, however, is that he now has a boss who is more hands-on than any faculty advisor ever was. He does credit his interaction with faculty and graduate students for his ability to hold his own with his co-workers. He currently has a Ph.D. who reports to him. Marx said that the vertical integration of undergrads/grads/faculty at UR gave him the confidence to hold his own with those more educated than himself.
+
+This has been an exciting year for Steve’s extracurricular life. Not only did he buy a house and is singing in a co-ed a cappella group, “The Acoustix”, but he has also had a lucrative year with his other hobby, poker. After qualifying first in an on-line game through Pokerstars, Steve was entered into the World Series of Poker in Las Vegas in July. He finished 35th out of 5619 entrants, and won $274,000! Steve is part of the growing trend in computer types using logical, mathematical and strategic skills to win at on-line poker. He approaches the game as if he were the computer, and uses pattern matching, randomization, probability and arithmetic to gain his competitive edge. The game all changes with face-to-face play, however. In Las Vegas, with professional players among the contestants, social skills, body language, acting ability, and willingness to take a risk factored in. Steve prefers the on-line game to a crowded, smoky Las Vegas casino. At home, there are no lines at the rest rooms and the snack bar is always open.
+
+One piece of advice that Steve would pass along to URCS undergraduates is to be prepared to be a lifelong learner. It takes some time on the job to realize what your weak areas are, and what you’ll need to do to be on par with your coworkers. You’ll have to pick up the books and learn on the fly, which is also a skill you should have mastered at UR. Though our program gives you good theoretical preparation and teaches you to think & problem solve, there are aspects of software engineering used in entry-level programming jobs that are not part of our core curriculum. Each employer will have the “company” way to write code that will be a learning process. Master these skills quickly, and you’ll maximize your potential. Soon you’ll be looking for a financial planner and a tax accountant just like Steve!
+
+In Russell Bent’s junior year at Rochester he began an independent study project with Lane Hemaspaandra, grad student Gabriel Istrate and fellow undergraduate Mike Schear. His work on error correcting codes, which resulted in a refereed journal publication his senior year, changed the direction of his life. Up until that research experience, Russ hadn’t even considered graduate school as an option. Working on that particular project showed him that research was both exciting and interesting and that grad school could be in his future.
+
+Russ began his Ph.D. studies at Brown University in the fall of 2000 and found that his previous research provided him with a strong foundation. He explained, “ It takes many students time to adjust from the undergrad environment where you know all the problems have a solution, to a graduate environment where you do not know if there exists an answer to your research problem or if you are even asking the right question!” Having done research at UR, his adjustment seemed more seamless than some of his fellow students. The transition to the CS Department at Brown was also quite smooth as the departments are similar in their close-knit feel. The size of the faculty and student body is also comparable. Both departments emphasize the success of each individual student and not a quota system found at some schools. It’s no wonder that five of our URCS alumni have begun their PhD studies at Brown in recent years.
+
+Bent completed his Ph.D. in the spring of ’05. Along with his advisor, Pascal VanHenterick, they have a book to be released this fall. Look for “Online Stochastic Combinatorial Optimization” from MIT Press (ISBN0262220806) coming soon to a bookstore near you! Soon after graduation he moved to New Mexico to work at Los Alamos National Labs. He found right away that LANL is a nice combination of academia & industry. Russell enjoys the opportunity to do basic research in conjunction with projects that have direct application to existing technological challenges. The future holds much to be discovered in the field of combinatorial optimization. His current work is in the area of (infrastructure and network) analysis and development. What is interesting to him is to see that many infrastructure research problems can be characterized as optimization problems (think scheduling, routing, etc) so there is a very direct application of his graduate studies to his current programmatic work at the lab. He sees a critical component of his future work hinging on identifying and solving the basic underlying optimization problems inherent to infrastructure problems. The intent is that through understanding these core problems he can both advance the field of optimization and apply this understanding to problems that arise in practice.
+
+It’s not all about work for Bent & his wife Sabrina. The move from Providence to New Mexico has been exciting for both of them. Though they are farther away from family and friends, the sunshine isn’t hard to adjust to! They spend their free time exploring the wildlands of New Mexico, hiking, skiing and snowshoeing, and hope one day to have reached the highest point in each of the fifty states.
+
+When asked what part of his undergrad education at Rochester has influenced him the most, Russ responded that though the concept is somewhat vague, it was learning how to think like a computer scientist. Bent says from a theoretical perspective, for example, when considering a problem (research or application), what will be an effective algorithm to solve the problem and what guarantees on performance, solution quality, etc, can be provided. It also ranges all the way to implementation in terms of how to actually convert the algorithm to something that can be used effectively and efficiently to explore the problem being considered. This skill to think as a scientist, and Lane Hemapaandra’s strong influence to encourage Russ to apply to graduate school, have had a considerable impact and have contributed to Bent’s success today.
+
+Daniel Berlin ’00 received his law degree from George Washington School of Law in 2004. After two years of working on compilers for IBM Research in Yorktown Heights, NY, he now works at Google in Washington, DC. Last year, he married his college sweetheart, Melissa Kucinski at the Interfaith Chapel. Below is the interview with him.
+
+Before you entered UR as a freshman, you had already published the book "CGI Programming Unleashed" (1996). How did this opportunity present itself to you in high school?
+
+In the relatively early days of the world wide web (1994), I was lucky enough to have a nice Internet connection, and be a participant in the mailing lists related to writing web servers (unlike now, there were probably two mailing lists total on the entire Internet for this subject). I made some friends through answering questions and writing some code (It was to do a Visual Basic CGI interface for an early windows web server). As a result, I was asked to do some tech editing on a completely unrelated book through one of these friends who had some work published. To their credit, it turned out Macmillan Computer Publishing actually did not care how old I was, because I did a good job tech editing for them in my spare time. Macmillan was happy enough with the job, and when they discovered that the WWW might actually turn out to be a good area to publish books about, they asked me to author "CGI Programming Unleashed".
+
+Surprisingly not. But this was a different time, when it was easy to get noticed and make good contacts. These days I seriously doubt I could follow the same path I did then. There were also many orders of magnitude fewer people who were knowledgeable about this stuff, and I was the only one with free time. There is also the money issue: While $25 a page was a lot of money to me in high school, to someone getting paid $150 an hour for software development, it wasn't.
+
+Interestingly, the book sold really well. It was named Amazon's computer book of the month way back when Amazon was pretty small, and there was actually a display or two in a few bookstores. The book ended up getting translated into three languages. Humorously of course, I got negative reviews from people reading in 2000 or 2002 claiming "This is all basic stuff everyone should know anyway", as if times had not changed.
+
+Actually, I just finished doing a favor and revising "Practical Subversion" (which is a about a version control system named Subversion). Past that, sadly I'm too busy to write books. I've been asked a few times, but I just don't have the urge to write. It is significantly harder than it looks :)
+
+Would you consider yourself a non-traditional learner? What kind of challenges have you had to overcome to get where you are today?
+
+I am definitely a non-traditional learner, but this is mostly an outgrowth of the need to cope with serious ADHD (which has become "fashionable", hurting a lot of people who are actually learning disabled). People mistake the ADD part of ADHD for not being able to pay attention. The reality is you pay attention to *everything*, when you should be focusing on single things. This is very different from not paying attention at all. My coping mechanism has thus been to stop trying to concentrate on single tasks for long periods of time (which I am very bad at), and instead learn multiple things at once, rather than "try to learn one thing while also pay attention to the bird outside the window". The hyperactivity portion of ADHD has enabled me to also do trial and error learning when it comes to certain things. For example, when figuring out algorithms, it is often much quicker for me to code the algorithm I am working out and try it than it is to try to reason out every corner case (though at some point, you do have to do this, but it works fast for weeding out what turned out to be bad ideas). I can also do this while thinking about something else entirely. Medications only help you cope with these issues, they don't really fix the underlying problem.
+
+All of the above make it possible for me to learn things to a certain threshold. Past some point you have to focus entirely on one subject, and when that happens, my learning rate slows down very much.
+
+As an undergrad, what preparations did you make to go to law school? As a CSC student in law school, how did your ug program compare or differ from others in your law classes? What type of law did you study?
+
+I actually did not prepare very much for law school. I took a small number of courses in philosophy and logic (which, thanks to the great teachers I had at the U of R, served me enormously). It turns out CS and a law degree actually require a good deal of the same skills. My CS program at U of R taught me an enormous amount about how to reason about things in general, as well as how to fit together algorithms, data structures, and come to sane results. This turns out to be exactly the skills you need to succeed in law school, and as a lawyer (though it does vary depending on the type of law). Most people in law school floundered through trying to apply laws and statutes to actual real world situations that aren't exactly the same. Having learned in my CS program how to apply unrelated or slightly different algorithms to new tasks, the task of applying normally rigid laws and cases to unrelated or slightly different situations was a walk in the park. I am able to see the connections a lot of people seem to have trouble with. Sadly, these skills only really apply to most of the required subjects in law school.
+
+I specialized in Intellectual property (patent, copyright, and trademark law), which at one point in the past, had a very sane and logical set of rules. This is no longer true. Undergrad CS taught me there are often no best answers, just a lot of good answers, and it is more important to know how to get to the good answers. In any area of law like IP, where statutes are rather vague and were written for a very different time and place than our world is today, being able to come up with good answers is essential.
+
+What advice would you give to undergrads interested in pursuing a law degree?
+
+A lot of people who say they want to be a lawyer, really seem to mean they want to argue in front of a judge and jury. The majority of being a lawyer is actually doing mountains of paperwork. Most people do not comprehend the amount of paperwork you would do on a case before you ever stepped foot in a courtroom for that case. If you work for a major firm, you will make large sums of money, but you will be doing this paperwork for 2000+ billable hours a year (for 5-7 years), where whether you can bill something to a client or not is tracked in 5 minute increments. If you work for a public service organization, you will be doing things on more reasonable schedule, and most people find the work more fulfilling, but you will likely not make enough money to pay back your law school loans *and* really support a family. These are of course, generalizations based on what the vast majority of law students end up doing. This is simply the accepted "way of the world" in the field of law, and has been this way for a large number of years. A large number of people become disillusioned with being a lawyer after a few years and do something else. Another large set of people simply do it anyway because eventually you become senior enough that other people take care of the non-interesting grunt work :)
+
+The kind of jobs CS people seem to want, where they are out there doing something real, fighting patents, or being on the leading edge, are rare. Most people who do work on cool things in a non-public interest organization, take on very mundane regular cases because those are what pay the bills. Those that don't work on mundane things at all usually have many years of experience, and slogged through hell to get where they are.
+
+I'm really not saying all this to discourage people, but to make them aware of what they are getting themselves into. If you are willing to put in the time and effort, and suffer for a few years, you can certainly do cool things. But it really does take a lot of time and effort, and you should be aware of what kind of sacrifice you are in for.
+
+How did you end up at Google? What does a computer scientist/lawyer do at Google?
+
+When I left for Google, I was working at IBM research doing engineering work on GCC (A free software compiler), as well as being involved in legal related work around open source. I ended up at Google for two main reasons. IBM was pretty hesitant to let anyone outside their legal department do anything interesting on the legal side. I was okay with this, and considering officially working part time in the legal department, but this was somewhat bothersome. However, the main reason I left IBM is that, even though the people at IBM research were incredibly smart and innovative, I did not feel that the company overall was still willing to take the large risks you need to take to achieve real innovation. It came down to me not wanting to work for a company that only wants to be as good as every other company. I wanted to work for someone willing to take the risk associated with doing better than everyone else.
+
+At Google, I work for the Open Source Programs Office. I split my time between engineering and lawyering for the group. On the engineering side, I work on Code Hosting for Google Code (HYPERLINK "http://code.google.com/hosting"http://code.google.com/hosting), as well as contributing to open source projects, particularly, GCC and Subversion. On the legal side, I help us ensure internal license compliance (i.e., tell engineers what they need to do if they want to use a certain piece of code), answer legal questions that come up about open source (both by engineers and our legal department), and help figure out what our legal requirements and policies should be around open source (which is a multi-person effort). I can multitask and do these several roles at once, so the job I have now is ideal for me. Google is a great company to work for. It is one of the few companies I've worked for with a real internal conscience, and where the "voice of engineers" actually matters at the highest levels.
+
+You're back in DC where you completed your law degree. What do you like about DC?
+
+I work in DC, but live in a suburb in Maryland named Rockville. DC is a good place to be if you want to have any impact on current policies and laws, and I am quite passionate about our policies and laws around Intellectual Property. I also get to work next to the rest of Google's policy team on these issues by virtue of being here.
+
+As for where I live, both my wife and I love Maryland. It has a nice climate, and I can take the Metro to get to my job from here without the commute being painful. There are actually a couple other suburbs of large cities (neither of us want to live directly in the city) we've considered living in before, but we've been happy here so far, so we see no reason to go elsewhere.
+
+What do you do in your non-work time? Any favorite pastimes,interesting recently-read books, or places to travel to?
+
+My wife and I bought our first house in January, and I've been spending a lot of spare time remodeling and fixing things up. It is actually very enjoyable sometimes to be able to get away from the computer and just build new cabinets, put in new flooring, or fix plumbing. My father has done woodworking for a number of years, and it has rubbed off on me. It is also hard to find contractors who charge a reasonable price around here (side effect of living in an upper middle class suburb), so I usually do most of the home improvement myself.
+
+Besides that, my wife's free-time work for the ABA's international law section has meant we have been traveling a bit, but usually not for long periods of time.
+
+Is there anything particular in your undergraduate experience in CSC that stands out as significant to your current success? Any favorite course or project that you can remember?
+
+It's hard to say. I enjoyed it all so much, and I use almost everything I learned on a daily basis. I do remember trying to do seemingly impossible homework problems in "Design and Analysis of Efficient Algorithms", and having weeks to rederive theorems it took people much smarter than me years to do, in "Theory of Computation" seminar. While they were quite harrowing at the time, I just laugh about them now.
+
+Henry (Mac) W. McCauley graduated in 2000 with degrees in both Computer Science & Electrical & Computer Engineering. While at Rochester, Mac worked with Professors Chris Brown and Randal Nelson on the Mobile Wheelchair Project. Chris Brown said, “Mac was a fearless problem-solver who seemed to thrive in the unstructured and uncertain world of robotics, where buggy hardware and software meet an unpredictable world and somehow reliable results are supposed to emerge.” Mac continues to be a problem solver now, though his work is more focused on water treatment than software. Recently, Mac was interviewed for Multicast.
+
+ED: You graduated with degrees in both Computer Science and Electrical and Computer Engineering. How has the combination of those two degrees been significant in your career so far?
+
+HM: Both degrees were very significant when I worked at ALSTOM Signaling, Inc., in Rochester after graduation until 2006. I was involved in product design of railroad signaling systems. I worked on software development, from assembly language to C++, including algorithm design, and on hardware development, from I/O modules to the CPU board itself. Now that I have completed my masters degree in water and wastewater engineering with the goal of missions and development work in Africa, those degrees have provided a great background and understanding of the power and control systems at treatment facilities. More importantly, though, I appreciate how similar and interconnected the different fields of engineering are, and the excellent education provided at the University of Rochester not only taught me about algorithms and circuits, but also how to think critically, search for answers, and design within constraints.
+
+ED: What do you see as benefits for the Department of Computer Science as they join the Hajim School of Engineering?
+
+HM: There are many connections between computer science and the engineering disciplines, and those connections will likely be more easily tapped. I originally combined the two to pursue a career in robotics research, and there are many other burgeoning fields and developments that will require the collaboration of these fields. I see that the Industry Practicum program that I took part in through Electrical Engineering (now Electrical and Computer Engineering) is already available to CSC students.
+
+ED: During your valedictory speech at our 2000 departmental diploma ceremony, you talked about using your skills and talents for the good of others. Have you been able to make the kind of impact you were hoping to so far?
+
+HM: We can always hope for greater impact, but I have been blessed with opportunities to benefit others using my professional skills. I enjoyed working on railroad signaling systems to improve safety and reliability. I have enjoyed working with municipalities here in Ohio to improve their drinking water quality or their water pollution control efforts. And I have enjoyed my two trips to Cameroon in West Africa, where I was able to help with water and sanitation projects. I look forward eagerly to full-time missions work in Africa. I hope that we all continue to look beyond ourselves and seek what is most valuable in life.
+
+ED: What were some of the most important skills you learned while studying computer science at Rochester? Why have they been important in your work and life?
+
+HM: Most importantly, I learned problem-solving skills - how to frame the problem, how to do research, how to brainstorm solutions, how to evaluate options, and how to work with a team to complete the task. These skills translate into any field and into all of life.
+
+ED: What advice would you give a young person about a career in Computer Science?
+
+HM: Look beyond the specifics to the big picture. Don't focus on the particular languages or systems. Learn the theory and how to apply it to many situations and problems, including possible integrations with other fields. And consider how your career could improve the lives of others.
+
+ED: How do you spend your time outside of work? Any hobbies, activities, or organizations?
+
+HM: My main activity outside of work is the joy of being a husband to my wife Leesa and now a father to my ten-month old Seth. Our favorite activities include hiking and camping with our dog and enjoying time with family and friends. We are also involved in serving the junior high and senior high youth groups at our church. I also enjoy reading, writing fiction, woodworking, and basketball when I get some time.
+
+Tyrone Baird graduated from URCS in 2001. He is currently employed at Northrop Grumman in CA, and is also a C-17 pilot in the California Air Force Reserves. He has been called to active duty in recent years, and has been assigned to both military and humanitarian missions. Tyrone is married to Diana Calarese Baird ’03 and together they have a daughter Sonya, born 1/09. Recently he was interviewed for Multicast.
+
+Q: We know about your CS history, but how did you get started in the Air Force Reserves?
+
+A: I’ve always been fascinated with airplanes and how they work. I wanted to learn how to fly but I had a tremendous fear of heights that I never thought I would be able to overcome. One day, I decided to take a flying lesson to see if it would help me overcome my fear, and I immediately fell in love with it. After graduating from the U of R, I felt that I had the time and the resources to become a Military Officer and ultimately a pilot, so I decided to pursue that goal. First, I had to complete flying lessons at a civilian school to get my private pilot license. I then received a sponsorship by a reserve flying squadron located in Southern California to become a C-17 pilot. I attended Officer Training School at Maxwell AFB Alabama, then Undergraduate Pilot Training at Laughlin AFB in Del Rio, Texas. The entire training process took 2 years! It definitely was one of the most difficult challenges I have ever faced, but it was well worth it.
+
+Q: Tell us about your job as a pilot in the Air Force Reserves. How often are you called to active duty?
+
+A: It depends on the needs of the military. When I first became a pilot 3 years ago, the conflict in the Middle East was still very active and they needed as many airlift pilots as possible. Because of that situation, I was placed on active duty orders for close to one year, staging out of Ramstein Air Base in Germany. Our main assignment was to fly aero-medical evacuation missions out of the various combat zones in Iraq. After completing my active duty tour, I was placed in the reserves and have been a traditional reservist ever since. As a traditional reservist, there are still a large number of missions that we perform around the world, including those into Iraq and Afghanistan in support of the Global War on Terrorism. These missions do not require the unit to be fully activated in order to participate, which gives traditional reservists the added flexibility to be able to live semi-normal civilian lives and still actively contribute to the needs of the military.
+
+Q: What kind of missions are you sent on when flying the C-17 transport planes? 
+
+A: There are a wide variety of missions that we perform; they range from simple one day training missions to direct Presidential mobility support (transporting the President’s security service detail and his vehicles) that take us around the world. One mission in particular that will have a lasting impact on me was “Operation Unified Response.” This mission was to support the Haiti earthquake disaster relief. We flew a number of sorties from Charleston Air Force Base in South Carolina, transporting medical supplies, reconstruction equipment, and rescue and recovery personnel. The U.S. military relief effort was overwhelming, but so was the magnitude of the disaster. Flying into Port-Au-Prince, from the air, the aftermath of the earthquake was all too clear. Most buildings in the city had collapsed, and the port itself was completely destroyed. There were people everywhere in the streets; it almost seemed like they were walking to nowhere. I’ve never witnessed anything like it before or since. I was definitely humbled and extremely grateful to be able to help. On each return trip to the U.S. we transported a full load of Haitian-American refugees to Orlando, Florida. Most of those people had not received any basic necessities for close to one week. Fortunately, the processing station in Florida took great care of them in getting them what they needed.
+
+Q: How does each job impact the other? Does it put you in an interesting position at Northrop Grumman that you are both a pilot and a computer scientist?
+
+A: Being a member of the Air Force definitely puts me in a unique position at my job with Northrop Grumman. I get to see the perspective from both sides; from the user point of view (the military) and the provider. I find that I can bring many of my experiences gained while I was deployed to my current job. For example, one project that I worked on involved the creation of an advanced tactical data communications link between aircraft. Communication systems are an essential part of any aircraft, and based on my field experience, I was able to provide the systems engineers and software developers with firsthand feedback on various types of communications challenges we typically encounter as pilots, and I suggested changes to make this system better. My background as a computer programmer enhances my ability to perform my flying duties. The C-17, like many other modern aircraft, has a built-in mission computer. This computer is programmed for every flight we take. It’s not programmed in the sense that we write code, compile and run it. Instead, it takes various inputs from the pilots such as air temperature, winds, air pressure, flight path waypoints, etc, and computes all the necessary parameters the aircraft will need to accomplish the mission safely. Having the computer science background makes the process of “programming” the aircraft easier and intuitive.
+
+Q: How computerized are the planes? Are they really like the flight simulators in video games?
+
+A: Many pilots consider modern airplanes to be very big and expensive flying computers. Almost every system in the aircraft, i.e. hydraulics, electrical, flight control, communications, life support, etc., is driven by embedded computers with manual backups. The aircraft autopilot and auto throttles take constant feedback from the surrounding environment and compute exact positions to place control surfaces (rudders, ailerons, flaps, or any other surface of the airplane that controls how the plane moves through the air) much faster than any human being could accomplish. This makes for very smooth flights, and helps us pilot the aircraft in the safest way possible. Some flight simulators and video games are very similar in reproducing the way airplanes fly. In fact a lot of our training is done in full size, high fidelity motion simulators, making the transition to flying the aircraft practically unnoticeable.
+
+Q: If it won’t ruin your top secret clearance, where do you think the future of computer technology will be in the aircraft industry? What kind of products have you worked on at Northrop Grumman?
+
+A: The US military is moving more and more towards automated systems, removing the human factor entirely from the aircraft. In the near future there will be many more unmanned air vehicles (UAVs) and unmanned combat air vehicles (UCAVs). There are a large number of projects currently under development by the Department of Defense and government contractors like Northrop Grumman. Their intent is to minimize the presence of humans in the extremely hazardous combat environments they face during war, as well as to avoid having people perform repetitive mundane tasks such as aerial patrolling. With the increasing pace of computing power and the leaps in artificial intelligence, these highly complex automated systems will need less human intervention and soon they will be able completely perform all phases of a mission without any human input. At Northrop Grumman, I’ve worked on a few different projects, but my main focus has been working on air to air and air to ground communications systems. Most of the work is classified above secret, but what I can say is that it is highly challenging and rewarding. I believe it will continue to help keep our military the best in the world and keep our soldiers safe.
+
+Q: What is the most valuable skill you learned at UR CS and why?
+
+A: The most valuable skill I learned was critical thinking; to be able to look at problems from different perspectives to find a solution. I learned this from taking Computer Science courses such as Data Structures, Discrete Mathematics and Design of Efficient Algorithms. Almost every day I go to work, either at Northrop Grumman, or at the Air Force, I come across problems where I can apply my knowledge to find solutions. At Northrop Grumman, the software development process requires not only the ability to physically code the system, but also come up with design solutions to various computing problems that make the systems highly efficient due to the types of environments they will operate in. During combat situations, many of these systems become critical to keeping our troops safe, therefore the code has to be robust and as free of errors as possible.
+
+Q: What’s the most rewarding part of your life now? What do you do for fun and relaxation?
+
+A: I have to say by far, it is the time I’m able to spend with my wife Diana and daughter, Sonya. I can see how it can be easy to take one’s family for granted, but being away from them just makes me realize even more how much joy and fulfillment they bring to my life. Being able to help out when disaster strikes a part of the world, or to help keep this country safe by working on future defense technologies, or even helping the French government clean up the mine infested waters off the coast of New Caledonia by transporting US Navy mine detecting dolphins, are all very rewarding experiences in their own way. If it wasn’t for my wonderful family, however, I wouldn’t be able to enjoy those rewards the way I do. For fun, whenever I get a chance, I like to go SCUBA diving. I also enjoy spending time with the family at the beach. Sonya especially seems to like going to the beach and playing in the sand. Luckily, we live in Southern California, so there are plenty of beaches we can go to on the weekends and when I have time off. I believe that our daughter will definitely have a high interest in becoming a URCS alumna since both her parents are. However, it might be a little bit difficult convincing her to leave the perpetually Mediterranean Southern California climate to face the harsh winters in Rochester! She seems to really enjoy the warm weather and the beaches.
+
+4 Graduate School: Fordham University, M.I.T., Johns Hopkins University, Northwestern University
+
+A standing ovation to our students, staff, and faculty for making the 2010 edition of the URCS graduation ceremonies a never to be forgotten event!  Our grads were sent off in style with a musical extravaganza composed and performed by Chris Brown, Marty Guenther, Ted Pawlicki, Jeffrey Bigham, Randal Nelson, and Master DJ George Ferguson!
+
