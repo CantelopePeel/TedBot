@@ -4,6 +4,7 @@ import time
 from bs4 import BeautifulSoup, NavigableString
 from urllib.parse import  urljoin
 from collections import deque
+import json
 
 def strip_tags(html, invalid_tags):
     strip_soup = BeautifulSoup(html, 'html.parser')
@@ -78,7 +79,7 @@ def extract_text(url):
         return ""
 
     extract_links(res.content, url)
-    allowed_tags = [
+    text_allowed_tags = [
             'p',
             'li',
     ]
@@ -93,7 +94,7 @@ def extract_text(url):
     output = ''
 
     for t in text: 
-        if t.parent.name in allowed_tags:
+        if t.parent.name in text_allowed_tags:
             tag_content = str(t).replace('\n', '').replace('\t', '').replace("  ", " ")
             if len(tag_content) != 0:
                 if len(tag_content.split(" ")) >= 10:
