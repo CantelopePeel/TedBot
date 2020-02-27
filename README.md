@@ -8,3 +8,6 @@ wget https://www.dropbox.com/s/8jnulb2l4v7ikir/model.zip
 mkdir model
 unzip -d model model
 ```
+
+Then you need to set up the environment. We've made a script to initialize this for you!
+Simply run `start_env.sh`.
