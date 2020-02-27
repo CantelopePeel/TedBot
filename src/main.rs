@@ -25,7 +25,7 @@ extern crate stopwords;
 use stopwords::{NLTK, Language, Stopwords};
 
 fn start_py_shell_process() -> Child {
-    let mut py_sh_process = Command::new("python").arg("-i").arg("-")
+    let mut py_sh_process = Command::new("python3").arg("-i").arg("-")
                                  .stdin(Stdio::piped())
                                  .stdout(Stdio::piped())
                                  .stderr(Stdio::piped())
