@@ -2,3 +2,4 @@
 /scrape/*.txt
 /target
 **/*.rs.bk
+Cargo.lock
