@@ -13,7 +13,7 @@ Then you need to set up the environment. We've made a script to initialize this 
 
 # Dependencies
 
-Most dependencies are resolved for free! Simply run `rust run ./content` and most stuff will be downloaded for you.
+Most dependencies are resolved for free! Simply run `cargo run ./content` and most stuff will be downloaded for you.
 Other dependencies:
 
 - torch

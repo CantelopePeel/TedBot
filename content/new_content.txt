@@ -1,0 +1,19 @@
+title: advising 
+
+body: Faculty Advisors are full-time Computer Science faculty members whose primary appointment is within the CS Department. 
+They are your go-to for questions about research within the Department, course content, graduate school in CS, etc. 
+All CS students must meet with their faculty advisor during the Advising Period and to have their add/drop forms signed.
+tags: advising, faculty, go-to, questions, research, course content, graduate school, CS, add/drop forms
+----------------------------
+
+title: advising
+body: Staff Advisors are the Undergraduate Program Coordinators. They can help you to officially declare the CS major/minor, obtain course approvals (transfer credit/study abroad), get add/drop forms stamped, create course plans, register for Independent Study, etc.
+body: First-Years and Sophomores see: Sara Klinkbeil
+body: Juniors and Seniors see: Dani Vander Horst 
+tags: staff advising, Undergraduate program Coordinators, declare cs major, course approval, transfer credit, study abroad, forms stamped, course plans, register, Independent study.
+
+---------------------------
+
+title: advising
+body: peer advisors are upperclass computer science majors who have been chosen for their breadth of experience and computer science knowledge. They are excellent resources for questions about study abroad, getting involved in research, course content, clubs, internships, double majors, etc.
+tags: peer, advisors, upperclass, cs majors, experience
