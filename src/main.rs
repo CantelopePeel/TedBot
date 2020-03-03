@@ -2,7 +2,7 @@ extern crate tantivy;
 use tantivy::collector::TopDocs;
 use tantivy::query::QueryParser;
 use tantivy::schema::*;
-use tantivy::{doc, Index};
+use tantivy::Index;
 use tantivy::tokenizer::*;
 use tantivy::ReloadPolicy;
 use std::env;
@@ -23,28 +23,26 @@ extern crate colored;
 use colored::*;
 extern crate stopwords;
 use stopwords::{NLTK, Language, Stopwords};
+use std::{thread, time};
+extern crate rand;
+use rand::Rng;
 
 fn start_py_shell_process() -> Child {
-    let mut py_sh_process = Command::new("python3").arg("-i").arg("-")
+    let py_sh_process = Command::new("python3").arg("-i").arg("-")
                                  .stdin(Stdio::piped())
                                  .stdout(Stdio::piped())
-                                 .stderr(Stdio::piped())
+                                 .stderr(Stdio::inherit())
                                  .spawn().unwrap();
     return py_sh_process;
 }
 
-fn read_document(file: &Path, schema: &Schema, index_writer: &IndexWriter) {
-    let title = schema.get_field("title").unwrap();
-    let body = schema.get_field("body").unwrap();
-    
+fn read_document_json(file: &Path, schema: &Schema, index_writer: &IndexWriter) {
     if let Ok(lines) = read_lines(file) {
         for line_res in lines {
             if let Ok(line) = line_res {
                 //println!("{}", line);
-                index_writer.add_document(doc!(
-                    title => "",
-                    body => line.to_string(),
-                ));
+                let doc = schema.parse_document(&line).unwrap();
+                index_writer.add_document(doc);
             }
         }
     }
@@ -62,7 +60,9 @@ fn setup_index(schema: &Schema) -> Index {
         stopword_vec.push(stopword.to_string());
     }
     let tokenizer = SimpleTokenizer
+        .filter(RemoveLongFilter::limit(40))
         .filter(LowerCaser)
+        .filter(Stemmer::new(tantivy::tokenizer::Language::English))
         .filter(StopWordFilter::remove(
             stopword_vec
         ));
@@ -80,21 +80,93 @@ fn setup_schema() -> Schema {
     let text_options = TextOptions::default()
         .set_indexing_options(text_field_indexing)
         .set_stored();
-
-    schema_builder.add_text_field("title", text_options);
     
-    let text_field_indexing = TextFieldIndexing::default()
-        .set_tokenizer("stoppy")
-        .set_index_option(IndexRecordOption::WithFreqsAndPositions);
-    let text_options = TextOptions::default()
-        .set_indexing_options(text_field_indexing)
+    let link_options = TextOptions::default()
         .set_stored();
-    schema_builder.add_text_field("body", text_options);
+
+    schema_builder.add_text_field("title", text_options.clone());
+    schema_builder.add_text_field("body", text_options.clone());
+    schema_builder.add_text_field("link", link_options);
 
     let schema = schema_builder.build();
     return schema;
 }
 
+struct UserInfo {
+    name: String,
+    student_type: String,
+    year: String,
+}
+
+fn ted_dialog(dialog: &str) {
+    let mut rng = rand::thread_rng();
+    print!("{}: ", "Ted".red().bold());
+    io::stdout().flush().unwrap();
+    let timing0 = time::Duration::from_millis(500 + rng.gen_range(0, 100));
+    thread::sleep(timing0);
+    for c in dialog.chars() {
+        if c == ' ' {
+            let timing = time::Duration::from_millis(150 + rng.gen_range(0, 50));
+            thread::sleep(timing);
+        } else {
+            let timing = time::Duration::from_millis(50 + rng.gen_range(0, 50));
+            thread::sleep(timing);
+        }
+        print!("{}", c);
+        io::stdout().flush().unwrap();
+    }
+    thread::sleep(timing0);
+    println!();
+}
+
+fn machine_dialog(dialog: &str) {
+    let mut dots = String::new();
+    let timing0 = time::Duration::from_millis(500);
+    for i in 0..4 {
+        print!("{}: {}", "Machine".yellow().bold(), dots);
+        io::stdout().flush().unwrap();
+        dots += ".";
+        print!("\r");
+        io::stdout().flush().unwrap();
+        thread::sleep(timing0);
+    }
+    print!("{}: ", "Machine".yellow().bold());
+    println!("{}", dialog);
+    thread::sleep(timing0);
+}
+
+fn user_dialog(name: &str) -> String {
+    print!("{}: ", name.green().bold());
+    io::stdout().flush().unwrap();
+    let stdin = io::stdin();
+    let mut iterator = stdin.lock().lines();
+    let line = iterator.next().unwrap().unwrap().trim().to_string();
+    return line;
+}
+
+fn introduce() -> UserInfo {
+    ted_dialog("Hello! My name is Ted.");
+    ted_dialog("I will be assisting you with your advising needs today!");
+    ted_dialog("First, let me start some things up for us.");
+    machine_dialog("Spooling Document Index.");
+    machine_dialog("Bootstraping Knowledge Model.");
+    ted_dialog("Okay, while that warms up, lets learn a bit about you.");
+    ted_dialog("What is your first name?");
+    let name = user_dialog("You");
+    ted_dialog(&format!("Nice to meet you, {}!", name));
+    ted_dialog(&format!("Are you an undergraduate or graduate student?"));
+    let student_type = user_dialog(&name);
+    ted_dialog(&format!("What year are you, {}?", name));
+    let year = user_dialog(&name);
+    ted_dialog(&format!("Okay, we are ready to start."));
+    ted_dialog(&format!("What questions do you have for me today?"));
+    let user_info: UserInfo = UserInfo { 
+        name: name,
+        student_type: student_type,
+        year: year,
+    };
+    return user_info;
+}
 
 fn main() -> Result<()> {
     let args: Vec<String> = env::args().collect();
@@ -105,7 +177,6 @@ fn main() -> Result<()> {
     // Start Python shell.
     let mut py_sh_process = start_py_shell_process();
 
-    
     // Setup document index and ingest documents.
     let schema = setup_schema();
     let index = setup_index(&schema);
@@ -113,7 +184,7 @@ fn main() -> Result<()> {
     for path in paths {
         let path_buf = path.unwrap().path();
         println!("File: {}", path_buf.display());
-        read_document(&path_buf, &schema, &index_writer);
+        read_document_json(&path_buf, &schema, &index_writer);
     }
 
     index_writer.commit().unwrap();
@@ -134,12 +205,24 @@ fn main() -> Result<()> {
         
         writeln!(py_writer, "{}", py_script_content)?;
         py_writer.flush().unwrap(); 
-        let stdin = io::stdin();
-        for line in stdin.lock().lines() {
-            let query_line = line.unwrap(); 
-            let query = query_parser.parse_query(&query_line).expect("Failed to parse query!");
-            println!("Query: {} {:?}", &query_line, query);
 
+    
+        let mut load_line = String::new();
+        py_reader.read_line(&mut load_line).unwrap();
+        println!("Loading!");
+        
+        let user_info = introduce();
+        
+        let mut ready_line = String::new();
+        py_reader.read_line(&mut ready_line).unwrap();
+        println!("Ready!");
+
+        loop {
+            let query_line = user_dialog(&user_info.name);
+            if query_line == "quit" {
+                break;
+            }
+            let query = query_parser.parse_query(&query_line).expect("Failed to parse query!");
             let top_docs = searcher.search(&query, &TopDocs::with_limit(5)).expect("Query failed!");
             let mut answers: Vec<Value> = Vec::new();
             println!("{}", "Documents".blue());
@@ -147,18 +230,26 @@ fn main() -> Result<()> {
                 println!("{}", "---".blue());
                 let retrieved_doc = searcher.doc(doc_address).expect("Unable to retrieve document!");
 
-                let doc_body = retrieved_doc.get_first(body).unwrap().text().unwrap();
+                let doc_bodies = retrieved_doc.get_all(body);
+
+                let mut doc_text = String::new();
+                for body_val in doc_bodies {
+                    doc_text += body_val.text().unwrap();
+                    doc_text += "\n";
+                }
+                doc_text = doc_text.trim().to_string();
+
                 println!("Doc: {}\n{}", schema.to_json(&retrieved_doc), score);
+                println!("Doc Text: {}", doc_text);
                 
-                py_writer.write(format!("predict(\"{}\", \"{}\")\n", doc_body, query_line).as_bytes()).unwrap();
-                // py_writer.flush().unwrap();
+                py_writer.write(format!("predict(\"\"\"{}\"\"\", \"\"\"{}\"\"\")\n", doc_text, query_line).as_bytes()).unwrap();
+                
                 let mut answer_line = String::new();
                 let answer_len = py_reader.read_line(&mut answer_line).unwrap();
 
                 answer_line.truncate(answer_len - 1);
                 let answer_val: Value = serde_json::from_str(&answer_line).unwrap();
                 answers.push(answer_val);
-                //bert_doc(doc_body, &query_line);
             }
             println!("{}", "---".blue());
 
