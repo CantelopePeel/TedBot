@@ -1,5 +1,4 @@
-title: advising 
-
+title: Advising 
 body: Faculty Advisors are full-time Computer Science faculty members whose primary appointment is within the CS Department. 
 They are your go-to for questions about research within the Department, course content, graduate school in CS, etc. 
 All CS students must meet with their faculty advisor during the Advising Period and to have their add/drop forms signed.

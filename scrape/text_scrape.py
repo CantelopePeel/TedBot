@@ -81,10 +81,11 @@ def extract_text(url):
     extract_links(res.content, url)
     text_allowed_tags = [
             'p',
+            'span',
             'li',
     ]
    
-    invalid_tags = ['b', 'i', 'u', 'strong', 'a', 'em', 'code', 'img', 'span', 'br', 'footer']
+    invalid_tags = ['b', 'i', 'u', 'strong', 'a', 'em', 'code', 'img', 'br', 'footer']
     html_page = str(strip_tags(res.content, invalid_tags))
 
     soup = BeautifulSoup(html_page, 'html.parser')

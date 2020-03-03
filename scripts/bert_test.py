@@ -4,12 +4,13 @@ import json
 import torch
 from bert import QA
 
-print("Loading model!", file=sys.stderr, flush=True)
-model = QA('model')
-print("Model loading complete!", file=sys.stderr, flush=True)
-
-
 def predict(doc, q):
     answer = model.predict(doc, q)
     content = json.dumps(answer, separators=(',', ':'))
     print(content, flush=True)
+
+print("Loading model!", flush=True)
+model = QA('model')
+model.predict("Whales are a kind of animal called a mammal.", "What is a whale?")
+print("Model loading complete!", flush=True, end='')
+
