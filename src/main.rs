@@ -98,8 +98,12 @@ struct UserInfo {
     year: String,
 }
 
+#[cfg(dbg_assertions)]
 fn ted_dialog(dialog: &str) {
-    //let waits = (500, 150, 50);
+}
+
+#[cfg(not(dbg_assertions))]
+fn ted_dialog(dialog: &str) {
     let waits = (0, 0, 0);
     let mut rng = rand::thread_rng();
     print!("{}: ", "Ted".red().bold());
@@ -117,6 +121,7 @@ fn ted_dialog(dialog: &str) {
         print!("{}", c);
         io::stdout().flush().unwrap();
     }
+
     thread::sleep(timing0);
     println!();
 }
