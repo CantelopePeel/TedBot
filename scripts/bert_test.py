@@ -11,6 +11,6 @@ def predict(doc, q):
 
 print("Loading model!", flush=True)
 model = QA('model')
-model.predict("Whales are a kind of animal called a mammal.", "What is a whale?")
 print("Model loading complete!", flush=True, end='')
+model.predict("Whales are a kind of animal called a mammal.", "What is a whale?")
 
