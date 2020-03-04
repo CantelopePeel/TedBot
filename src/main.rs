@@ -98,23 +98,30 @@ struct UserInfo {
     year: String,
 }
 
+#[cfg(dbg_assertions)]
 fn ted_dialog(dialog: &str) {
+}
+
+#[cfg(not(dbg_assertions))]
+fn ted_dialog(dialog: &str) {
+    let waits = (0, 0, 0);
     let mut rng = rand::thread_rng();
     print!("{}: ", "Ted".red().bold());
     io::stdout().flush().unwrap();
-    let timing0 = time::Duration::from_millis(500 + rng.gen_range(0, 100));
+    let timing0 = time::Duration::from_millis(waits.0+ rng.gen_range(0, 100));
     thread::sleep(timing0);
     for c in dialog.chars() {
         if c == ' ' {
-            let timing = time::Duration::from_millis(150 + rng.gen_range(0, 50));
+            let timing = time::Duration::from_millis(waits.1 + rng.gen_range(0, 50));
             thread::sleep(timing);
         } else {
-            let timing = time::Duration::from_millis(50 + rng.gen_range(0, 50));
+            let timing = time::Duration::from_millis(waits.2 + rng.gen_range(0, 50));
             thread::sleep(timing);
         }
         print!("{}", c);
         io::stdout().flush().unwrap();
     }
+
     thread::sleep(timing0);
     println!();
 }
