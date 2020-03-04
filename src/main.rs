@@ -28,7 +28,7 @@ extern crate rand;
 use rand::Rng;
 
 fn start_py_shell_process() -> Child {
-    let py_sh_process = Command::new("python3").arg("-i").arg("-")
+    let py_sh_process = Command::new("./venv/bin/python").arg("-i").arg("-")
                                  .stdin(Stdio::piped())
                                  .stdout(Stdio::piped())
                                  .stderr(Stdio::inherit())
@@ -223,6 +223,7 @@ fn main() -> Result<()> {
                 break;
             }
             let query = query_parser.parse_query(&query_line).expect("Failed to parse query!");
+            // println!("Query: \n{:#?}", query);
             let top_docs = searcher.search(&query, &TopDocs::with_limit(5)).expect("Query failed!");
             let mut answers: Vec<Value> = Vec::new();
             println!("{}", "Documents".blue());
@@ -240,7 +241,8 @@ fn main() -> Result<()> {
                 doc_text = doc_text.trim().to_string();
 
                 println!("Doc: {}\n{}", schema.to_json(&retrieved_doc), score);
-                println!("Doc Text: {}", doc_text);
+                println!("Doc Text: \n{}", doc_text);
+                // println!("Score: {}", query.explain(&searcher, doc_address).unwrap().to_pretty_json());
                 
                 py_writer.write(format!("predict(\"\"\"{}\"\"\", \"\"\"{}\"\"\")\n", doc_text, query_line).as_bytes()).unwrap();
                 
