@@ -84,7 +84,7 @@ def download_page(url):
 
 def delete_useless_tags(html_page):
     soup = BeautifulSoup(html_page, 'html.parser')
-    useless_tags = ["header", "footer", "nav"]
+    useless_tags = ["footer", "nav"]
     for useless_tag in useless_tags:
         for page_tag in soup.find_all(useless_tag):
             page_tag.extract()
@@ -92,7 +92,7 @@ def delete_useless_tags(html_page):
         if a_tag.get('href') is not None:
             if a_tag.get('href').startswith("#"):
                 a_tag.extract()
-    for div_tag in soup.find_all('div', {"class": "menu"}):
+    for div_tag in soup.select('ul[class*="menu"]'):
         div_tag.extract()
     return str(soup)
 
@@ -166,7 +166,7 @@ def convert_html_to_md(html_page):
     page_converter.dash_unordered_list = True
     page_converter.body_width = 0
     page_converter.unicode_snob = True
-
+    page_converter.ul_item_mark = "-"
     return page_converter.handle(html_page)
 
 domains = ['www.cs.rochester.edu']
@@ -188,7 +188,7 @@ include_patterns = [
         ]
 
 
-with open('content.txt', 'w') as content_file:
+with open('json_content/content.txt', 'w') as content_file:
     pass
 
 counter = 0
@@ -206,7 +206,7 @@ while len(link_queue) != 0:
         continue
     
     if content is not None:
-        with open('content/content.txt', 'a') as content_file:
+        with open('json_content/content.txt', 'a') as content_file:
             for doc in content:
                 content_file.write(json.dumps(doc, separators=(',', ':')) + "\n")
                 content_file.flush()

@@ -1,0 +1,7 @@
+torch
+pytorch-transformers==1.0.0
+Flask==1.1.1
+Flask-Cors==3.0.8
+numpy
+beautifulsoup4
+html2text

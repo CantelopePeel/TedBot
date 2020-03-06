@@ -1,8 +1,11 @@
 extern crate tantivy;
 use tantivy::collector::TopDocs;
 use tantivy::query::QueryParser;
+use tantivy::query::Query;
 use tantivy::schema::*;
 use tantivy::Index;
+use tantivy::DocAddress;
+use tantivy::Score;
 use tantivy::tokenizer::*;
 use tantivy::ReloadPolicy;
 use std::env;
@@ -14,6 +17,7 @@ use std::iter::Iterator;
 use tantivy::IndexWriter;
 use std::process::Command;
 use std::process::Child;
+use std::process::ChildStdin;
 use std::process::Stdio;
 use std::io::BufReader;
 use std::io::Result;
@@ -22,7 +26,7 @@ use serde_json::{Value};
 extern crate colored;
 use colored::*;
 extern crate stopwords;
-use stopwords::{NLTK, Language, Stopwords};
+use stopwords::{SkLearn, Language, Stopwords};
 use std::{thread, time};
 extern crate rand;
 use rand::Rng;
@@ -31,7 +35,7 @@ fn start_py_shell_process() -> Child {
     let py_sh_process = Command::new("./venv/bin/python").arg("-i").arg("-")
                                  .stdin(Stdio::piped())
                                  .stdout(Stdio::piped())
-                                 .stderr(Stdio::inherit())
+                                 .stderr(Stdio::null())
                                  .spawn().unwrap();
     return py_sh_process;
 }
@@ -56,7 +60,7 @@ fn read_lines<P>(filename: P) -> io::Result<io::Lines<io::BufReader<File>>> wher
 fn setup_index(schema: &Schema) -> Index {
     let index = Index::create_in_ram(schema.clone());
     let mut stopword_vec: Vec<String> = Vec::new();
-    for stopword in NLTK::stopwords(Language::English).unwrap().iter() {
+    for stopword in SkLearn::stopwords(Language::English).unwrap().iter() {
         stopword_vec.push(stopword.to_string());
     }
     let tokenizer = SimpleTokenizer
@@ -92,19 +96,19 @@ fn setup_schema() -> Schema {
     return schema;
 }
 
+#[allow(dead_code)]
 struct UserInfo {
     name: String,
     student_type: String,
     year: String,
 }
 
-#[cfg(dbg_assertions)]
 fn ted_dialog(dialog: &str) {
-}
+    let mut waits = (400, 100, 50);
+    if cfg!(debug_assertions) {
+        waits = (0, 0, 0);
+    }
 
-#[cfg(not(dbg_assertions))]
-fn ted_dialog(dialog: &str) {
-    let waits = (0, 0, 0);
     let mut rng = rand::thread_rng();
     print!("{}: ", "Ted".red().bold());
     io::stdout().flush().unwrap();
@@ -129,7 +133,7 @@ fn ted_dialog(dialog: &str) {
 fn machine_dialog(dialog: &str) {
     let mut dots = String::new();
     let timing0 = time::Duration::from_millis(500);
-    for i in 0..4 {
+    for _ in 0..4 {
         print!("{}: {}", "Machine".yellow().bold(), dots);
         io::stdout().flush().unwrap();
         dots += ".";
@@ -165,14 +169,128 @@ fn introduce() -> UserInfo {
     let student_type = user_dialog(&name);
     ted_dialog(&format!("What year are you, {}?", name));
     let year = user_dialog(&name);
-    ted_dialog(&format!("Okay, we are ready to start."));
+    ted_dialog(&format!("Okay, we are ready to start. When you are done just say \"quit\" or \"(oo)\"."));
     ted_dialog(&format!("What questions do you have for me today?"));
     let user_info: UserInfo = UserInfo { 
         name: name,
         student_type: student_type,
         year: year,
     };
+
     return user_info;
+}
+
+fn generate_query(query_str: &str, index: &Index) -> Box<dyn Query> {
+    let schema = index.schema();
+    let title = schema.get_field("title").unwrap();
+    let body = schema.get_field("body").unwrap();
+    
+    let query_parser = QueryParser::for_index(&index, vec![title, body]);
+    let query = query_parser.parse_query(query_str).expect("Failed to parse query!");
+    return query;
+}
+
+fn query_index_for_docs(query: Box<dyn Query>, index: &Index) -> Vec<(Score, DocAddress)> {
+    let reader = index
+        .reader_builder()
+        .reload_policy(ReloadPolicy::OnCommit)
+        .try_into().expect("Could not build reader!");
+
+    let searcher = reader.searcher();
+    
+    // println!("Query: \n{:#?}", query);
+    let top_docs = searcher.search(&query, &TopDocs::with_limit(5)).expect("Query failed!");
+    return top_docs;
+}
+
+fn collect_predicted_answers(query_str: &str, docs: &Vec<(Score, DocAddress)>, index: &Index, py_reader: &mut std::io::BufReader<&mut std::process::ChildStdout>, py_writer: &mut ChildStdin) -> Vec<(DocAddress, Value)> {
+    let schema = index.schema();
+    let body = schema.get_field("body").unwrap();
+    
+    let mut answers: Vec<(DocAddress, Value)> = Vec::new();
+    let reader = index
+        .reader_builder()
+        .reload_policy(ReloadPolicy::OnCommit)
+        .try_into().expect("Could not build reader!");
+    
+    let searcher = reader.searcher();
+
+    for (score, doc_address) in docs {
+        let retrieved_doc = searcher.doc(*doc_address).expect("Unable to retrieve document!");
+
+        let doc_bodies = retrieved_doc.get_all(body);
+
+        let mut doc_text = String::new();
+        for body_val in doc_bodies {
+            doc_text += body_val.text().unwrap();
+            doc_text += "\n";
+        }
+        doc_text = doc_text.trim().to_string();
+
+        if cfg!(debug_assertions) {
+            println!("Doc: {}\n{}", schema.to_json(&retrieved_doc), score);
+            println!("Doc Text: \n{}", doc_text);
+            //println!("Score: {}", query.explain(&searcher, doc_address).unwrap().to_pretty_json());
+        }
+        
+        py_writer.write(format!("predict(\"\"\"{}\"\"\", \"\"\"{}\"\"\")\n", doc_text, query_str).as_bytes()).unwrap();
+        
+        let mut answer_line = String::new();
+        let answer_len = py_reader.read_line(&mut answer_line).unwrap();
+
+        answer_line.truncate(answer_len - 1);
+        let answer_val: Value = serde_json::from_str(&answer_line).unwrap();
+        
+        if answer_val["confidence"].as_f64().unwrap() >= 0.1 {
+            answers.push((*doc_address, answer_val));
+        }
+    }
+    answers.sort_by(|a0, a1| a1.1["confidence"].as_f64().unwrap().partial_cmp(&a0.1["confidence"].as_f64().unwrap()).unwrap());
+    return answers;   
+}
+
+fn display_answer(answer_val: &(DocAddress, Value), index: &Index) {
+    let doc_vec = answer_val.1["document"].as_array().unwrap();
+    let ans_start: usize = answer_val.1["start"].as_u64().unwrap().try_into().unwrap();
+    let ans_end: usize = answer_val.1["end"].as_u64().unwrap().try_into().unwrap();
+   
+    let schema = index.schema();
+    let link = schema.get_field("link").unwrap();
+    let title = schema.get_field("title").unwrap();
+
+    let reader = index
+        .reader_builder()
+        .reload_policy(ReloadPolicy::OnCommit)
+        .try_into().expect("Could not build reader!");
+
+    let searcher = reader.searcher();
+    let retrieved_doc = searcher.doc(answer_val.0).expect("Unable to retrieve document!");
+    let source_link = retrieved_doc.get_first(link).unwrap();
+    let doc_titles = retrieved_doc.get_all(title);
+ 
+    for i in 0..doc_vec.len() {
+        let word = doc_vec[i].as_str().unwrap();
+        if i >= ans_start && i <= ans_end {
+            print!("{} ", word.green().bold());
+        } else {
+            print!("{} ", word);
+        }
+    }
+    println!();
+    
+    let mut doc_title_crumb = String::new();
+    for i in 0..doc_titles.len() {
+        doc_title_crumb += &format!("[ {} ]", doc_titles[i].text().unwrap());
+        if i < (doc_titles.len() - 1) {
+            doc_title_crumb += " -> ";
+        }
+    }
+    
+    println!("[ Document: {} ]", doc_title_crumb);
+    println!("[ Source: [ {} ] ]", source_link.text().unwrap().blue().underline());
+    
+    #[cfg(debug_assertions)]
+    println!("{:?}\n{} {:.3}",  answer_val.1,  "Confidence:".yellow(), answer_val.1["confidence"].as_f64().unwrap()); 
 }
 
 fn main() -> Result<()> {
@@ -190,21 +308,15 @@ fn main() -> Result<()> {
     let mut index_writer = index.writer(50_000_000).expect("Unable to make index writer!");
     for path in paths {
         let path_buf = path.unwrap().path();
+        
+        #[cfg(debug_assertions)]
         println!("File: {}", path_buf.display());
+        
         read_document_json(&path_buf, &schema, &index_writer);
     }
 
     index_writer.commit().unwrap();
-    let reader = index
-        .reader_builder()
-        .reload_policy(ReloadPolicy::OnCommit)
-        .try_into().expect("Could not build reader!");
-
-    let searcher = reader.searcher();
     
-    let title = schema.get_field("title").unwrap();
-    let body = schema.get_field("body").unwrap();
-    let query_parser = QueryParser::for_index(&index, vec![title, body]);
    
     {
         let mut py_reader = BufReader::new(py_sh_process.stdout.as_mut().unwrap());
@@ -212,81 +324,63 @@ fn main() -> Result<()> {
         
         writeln!(py_writer, "{}", py_script_content)?;
         py_writer.flush().unwrap(); 
-
     
         let mut load_line = String::new();
         py_reader.read_line(&mut load_line).unwrap();
-        println!("Loading!");
         
         let user_info = introduce();
         
         let mut ready_line = String::new();
         py_reader.read_line(&mut ready_line).unwrap();
-        println!("Ready!");
 
         loop {
             let query_line = user_dialog(&user_info.name);
-            if query_line == "quit" {
+            if query_line == "quit" || query_line == "(oo)" {
                 break;
             }
-            let query = query_parser.parse_query(&query_line).expect("Failed to parse query!");
-            // println!("Query: \n{:#?}", query);
-            let top_docs = searcher.search(&query, &TopDocs::with_limit(5)).expect("Query failed!");
-            let mut answers: Vec<Value> = Vec::new();
-            println!("{}", "Documents".blue());
-            for (score, doc_address) in top_docs {
-                println!("{}", "---".blue());
-                let retrieved_doc = searcher.doc(doc_address).expect("Unable to retrieve document!");
 
-                let doc_bodies = retrieved_doc.get_all(body);
+            let query = generate_query(&query_line, &index); 
+            let docs = query_index_for_docs(query, &index);
 
-                let mut doc_text = String::new();
-                for body_val in doc_bodies {
-                    doc_text += body_val.text().unwrap();
-                    doc_text += "\n";
-                }
-                doc_text = doc_text.trim().to_string();
+            ted_dialog("Give me a few moments to consider your question.");
 
-                println!("Doc: {}\n{}", schema.to_json(&retrieved_doc), score);
-                println!("Doc Text: \n{}", doc_text);
-                // println!("Score: {}", query.explain(&searcher, doc_address).unwrap().to_pretty_json());
-                
-                py_writer.write(format!("predict(\"\"\"{}\"\"\", \"\"\"{}\"\"\")\n", doc_text, query_line).as_bytes()).unwrap();
-                
-                let mut answer_line = String::new();
-                let answer_len = py_reader.read_line(&mut answer_line).unwrap();
-
-                answer_line.truncate(answer_len - 1);
-                let answer_val: Value = serde_json::from_str(&answer_line).unwrap();
-                answers.push(answer_val);
+            if docs.len() == 0 {
+                ted_dialog("I don't think I have knowledge of what you have requesting. Try rewording your query.");
+                continue;
             }
-            println!("{}", "---".blue());
 
-            answers.sort_by(|a0, a1| a1["confidence"].as_f64().unwrap().partial_cmp(&a0["confidence"].as_f64().unwrap()).unwrap());
-            println!("{}", "Answers".bright_red());
-            for answer_val in answers {
-                println!("{}", "---".red());
-                let doc_vec = answer_val["document"].as_array().unwrap();
-                let ans_start: usize = answer_val["start"].as_u64().unwrap().try_into().unwrap();
-                let ans_end: usize = answer_val["end"].as_u64().unwrap().try_into().unwrap();
-                for i in 0..doc_vec.len() {
-                    let word = doc_vec[i].as_str().unwrap();
-                    if i >= ans_start && i <= ans_end {
-                        print!("{} ", word.green().bold());
+            let answers = collect_predicted_answers(&query_line, &docs, &index, &mut py_reader, py_writer);
+            if answers.len() == 0 {
+                ted_dialog("I am not confident I could give you the correct answer to your query. Try rephrasing it or giving more context.");
+            } else {
+                ted_dialog("Here is an answer I found to your query:");
+                display_answer(&answers[0], &index);
+                ted_dialog("Was this information helpful? (y/n/_)");
+                let helpful = user_dialog(&user_info.name);
+                if helpful == "y" {
+                    ted_dialog("Thanks! I am so glad I could help!");
+                } else if helpful == "n" {
+                    if answers.len() > 1 {
+                        ted_dialog("Okay. Here are several more results I found:");
+                        for i in  1..answers.len() {
+                            println!("Answer #{}:", i);
+                            display_answer(&answers[i], &index);
+                        }
+                        ted_dialog("Which of these answers was most relevant to your query? (#)");
+                        user_dialog(&user_info.name);
                     } else {
-                        print!("{} ", word);
+                        ted_dialog("I am sorry I could not be more helpful.");
                     }
                 }
-                println!();
-                println!("{} {:.3}", "Confidence:".yellow(), answer_val["confidence"].as_f64().unwrap()); 
+                ted_dialog("What other questions do you have for me?");
             }
-            println!("{}", "---".red());
         }
         
         writeln!(py_writer, "exit()")?;
     }
-
-    println!("Exiting!");
+    
+    ted_dialog("Goodbye!");
+    machine_dialog("Exiting!");
     py_sh_process.kill()?;
     py_sh_process.wait()?;
 
