@@ -345,7 +345,7 @@ fn main() -> Result<()> {
             ted_dialog("Give me a few moments to consider your question.");
 
             if docs.len() == 0 {
-                ted_dialog("I don't think I have knowledge of what you have requesting. Try rewording your query.");
+                ted_dialog("I don't think I have knowledge of what you have requested. Try rewording your query.");
                 continue;
             }
 
@@ -363,6 +363,9 @@ fn main() -> Result<()> {
                     if answers.len() > 1 {
                         ted_dialog("Okay. Here are several more results I found:");
                         for i in  1..answers.len() {
+                            if i > 1 {
+                                println!();
+                            }
                             println!("Answer #{}:", i);
                             display_answer(&answers[i], &index);
                         }
